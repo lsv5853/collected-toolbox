@@ -75,6 +75,9 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)（★94,801） | [lsv5853/Stirling-PDF](https://github.com/lsv5853/Stirling-PDF) | 自托管 PDF 工具箱 · Self-hosted PDF toolbox (license to verify) | 见原仓库（许可证待核） |
 | [uptime-kuma](https://github.com/louislam/uptime-kuma)（★92,792） | [lsv5853/uptime-kuma](https://github.com/lsv5853/uptime-kuma) | 自托管服务监控告警 · Self-hosted uptime monitoring & alerts | MIT |
 | [memos](https://github.com/usememos/memos)（★64,015） | [lsv5853/memos](https://github.com/lsv5853/memos) | 自托管碎片笔记 · Self-hosted memo notes | MIT |
+| [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)（★47,057） | [lsv5853/paperless-ngx](https://github.com/lsv5853/paperless-ngx) | 文档扫描归档（可部署 NAS） · Document scanning & archiving (NAS-ready) | GPL-3.0 |
+| [vaultwarden](https://github.com/dani-garcia/vaultwarden)（★69,593） | [lsv5853/vaultwarden](https://github.com/lsv5853/vaultwarden) | 自建密码管理器（可部署 NAS） · Self-hosted password manager (NAS-ready) | AGPL-3.0 |
+| [syncthing](https://github.com/syncthing/syncthing)（★89,699） | [lsv5853/syncthing](https://github.com/lsv5853/syncthing) | 去中心化文件同步（可部署 NAS） · Decentralized file sync (NAS-ready) | MPL-2.0 |
 
 ## 短视频 · Short Video
 
@@ -89,6 +92,7 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [faster-whisper](https://github.com/SYSTRAN/faster-whisper)（★26,075） | [lsv5853/faster-whisper](https://github.com/lsv5853/faster-whisper) | 语音转文字加速版 · Fast speech-to-text | MIT |
 | [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)（★17,068） | [lsv5853/TikTokDownloader](https://github.com/lsv5853/TikTokDownloader) | 抖音/TikTok 下载与采集 · Douyin/TikTok downloader & collector | GPL-3.0 |
 | [ArcReel](https://github.com/ArcReel/ArcReel)（★5,687） | [lsv5853/ArcReel](https://github.com/lsv5853/ArcReel) | 小说转分镜视频工作台 · Novel-to-storyboard video studio | AGPL-3.0 |
+| [VoiceStudio](https://github.com/debpalash/VoiceStudio)（★84,573） | [lsv5853/VoiceStudio](https://github.com/lsv5853/VoiceStudio) | AI 语音工作台（配音） · AI voice studio (TTS/dubbing) | AGPL-3.0 |
 
 ## 多媒体 · Multimedia
 
@@ -103,3 +107,8 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder)（★11,078） | [lsv5853/DouyinLiveRecorder](https://github.com/lsv5853/DouyinLiveRecorder) | 多平台直播录制 · Multi-platform live-stream recorder | MIT |
 | [iina](https://github.com/iina/iina)（★46,877） | [lsv5853/iina](https://github.com/lsv5853/iina) | macOS 视频播放器 · macOS video player | GPL-3.0 |
 | [lossless-cut](https://github.com/mifi/lossless-cut)（★45,069） | [lsv5853/lossless-cut](https://github.com/lsv5853/lossless-cut) | 无损视频剪切 · Lossless video/audio trimming | GPL-2.0 |
+| [iptv](https://github.com/iptv-org/iptv)（★142,205） | [lsv5853/iptv](https://github.com/lsv5853/iptv) | 全球公开电视直播源合集 · Global public IPTV streams collection | Unlicense |
+| [live](https://github.com/fanmingming/live)（★28,682） | [lsv5853/live](https://github.com/lsv5853/live) | 国内电视直播源合集 · Chinese TV live streams collection | GPL-3.0 |
+| [readest](https://github.com/readest/readest)（★25,578） | [lsv5853/readest](https://github.com/lsv5853/readest) | 跨平台电子书阅读器 · Cross-platform ebook reader | AGPL-3.0 |
+| [audiobookshelf](https://github.com/advplyr/audiobookshelf)（★14,764） | [lsv5853/audiobookshelf](https://github.com/lsv5853/audiobookshelf) | 自建有声书/播客服务器（可部署 NAS） · Self-hosted audiobook & podcast server (NAS-ready) | GPL-3.0 |
+| [feishin](https://github.com/jeffvli/feishin)（★10,227） | [lsv5853/feishin](https://github.com/lsv5853/feishin) | 对接 Jellyfin/Navidrome 的音乐播放器 · Desktop music client for Jellyfin/Navidrome | GPL-3.0 |
