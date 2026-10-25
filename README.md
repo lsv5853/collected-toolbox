@@ -78,6 +78,8 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)（★47,057） | [lsv5853/paperless-ngx](https://github.com/lsv5853/paperless-ngx) | 文档扫描归档（可部署 NAS） · Document scanning & archiving (NAS-ready) | GPL-3.0 |
 | [vaultwarden](https://github.com/dani-garcia/vaultwarden)（★69,593） | [lsv5853/vaultwarden](https://github.com/lsv5853/vaultwarden) | 自建密码管理器（可部署 NAS） · Self-hosted password manager (NAS-ready) | AGPL-3.0 |
 | [syncthing](https://github.com/syncthing/syncthing)（★89,699） | [lsv5853/syncthing](https://github.com/lsv5853/syncthing) | 去中心化文件同步（可部署 NAS） · Decentralized file sync (NAS-ready) | MPL-2.0 |
+| [coolify](https://github.com/coollabsio/coolify)（★64,094） | [lsv5853/coolify](https://github.com/lsv5853/coolify) | 自托管应用发布平台（可部署 NAS） · Self-hostable PaaS (NAS-ready) | Apache-2.0 |
+| [puter](https://github.com/HeyPuter/puter)（★43,883） | [lsv5853/puter](https://github.com/lsv5853/puter) | 浏览器里的云电脑（可部署 NAS） · Internet computer in browser (NAS-ready) | AGPL-3.0 |
 
 ## 短视频 · Short Video
 
@@ -93,6 +95,7 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)（★17,068） | [lsv5853/TikTokDownloader](https://github.com/lsv5853/TikTokDownloader) | 抖音/TikTok 下载与采集 · Douyin/TikTok downloader & collector | GPL-3.0 |
 | [ArcReel](https://github.com/ArcReel/ArcReel)（★5,687） | [lsv5853/ArcReel](https://github.com/lsv5853/ArcReel) | 小说转分镜视频工作台 · Novel-to-storyboard video studio | AGPL-3.0 |
 | [VoiceStudio](https://github.com/debpalash/VoiceStudio)（★84,573） | [lsv5853/VoiceStudio](https://github.com/lsv5853/VoiceStudio) | AI 语音工作台（配音） · AI voice studio (TTS/dubbing) | AGPL-3.0 |
+| [Concat](https://github.com/jub0t/Concat)（★11,499） | [lsv5853/Concat](https://github.com/lsv5853/Concat) | 本地优先的剪映平替 · Local-first CapCut alternative | AGPL-3.0 |
 
 ## 多媒体 · Multimedia
 
@@ -112,3 +115,9 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [readest](https://github.com/readest/readest)（★25,578） | [lsv5853/readest](https://github.com/lsv5853/readest) | 跨平台电子书阅读器 · Cross-platform ebook reader | AGPL-3.0 |
 | [audiobookshelf](https://github.com/advplyr/audiobookshelf)（★14,764） | [lsv5853/audiobookshelf](https://github.com/lsv5853/audiobookshelf) | 自建有声书/播客服务器（可部署 NAS） · Self-hosted audiobook & podcast server (NAS-ready) | GPL-3.0 |
 | [feishin](https://github.com/jeffvli/feishin)（★10,227） | [lsv5853/feishin](https://github.com/lsv5853/feishin) | 对接 Jellyfin/Navidrome 的音乐播放器 · Desktop music client for Jellyfin/Navidrome | GPL-3.0 |
+| [koel](https://github.com/koel/koel)（★17,314） | [lsv5853/koel](https://github.com/lsv5853/koel) | 个人音乐流媒体服务器（可部署 NAS） · Personal music streaming server (NAS-ready) | MIT |
+| [calibre-web](https://github.com/janeczku/calibre-web)（★18,465） | [lsv5853/calibre-web](https://github.com/lsv5853/calibre-web) | 电子书库网页版（可部署 NAS） · Web app for ebook library (NAS-ready) | GPL-3.0 |
+| [koodo-reader](https://github.com/koodo-reader/koodo-reader)（★28,623） | [lsv5853/koodo-reader](https://github.com/lsv5853/koodo-reader) | 现代电子书管理器和阅读器 · Modern ebook manager and reader | AGPL-3.0 |
+| [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)（★54,767） | [lsv5853/lx-music-desktop](https://github.com/lsv5853/lx-music-desktop) | 多音乐源桌面音乐播放器 · Electron music player with multiple sources | Apache-2.0 |
+| [iptvnator](https://github.com/4gray/iptvnator)（★7,505） | [lsv5853/iptvnator](https://github.com/lsv5853/iptvnator) | 跨平台 IPTV 播放器 · Cross-platform IPTV player | MIT |
+| [iptv-sources](https://github.com/HerbertHe/iptv-sources)（★9,040） | [lsv5853/iptv-sources](https://github.com/lsv5853/iptv-sources) | 自动更新的 IPTV 源列表 · Auto-updated IPTV sources | GPL-3.0 |
