@@ -61,6 +61,8 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [headroom](https://github.com/headroomlabs-ai/headroom)（★77,624） | [lsv5853/headroom](https://github.com/lsv5853/headroom) | LLM 上下文压缩省 token · Compress LLM context, save tokens | Apache-2.0 |
 | [nanobot](https://github.com/HKUDS/nanobot)（★49,301） | [lsv5853/nanobot](https://github.com/lsv5853/nanobot) | 超轻量个人智能体框架 · Ultra-lightweight personal agent framework | MIT |
 | [CowAgent](https://github.com/zhayujie/CowAgent)（★47,518） | [lsv5853/CowAgent](https://github.com/lsv5853/CowAgent) | 可接微信的个人智能体 · Personal AI agent with WeChat channel | MIT |
+| [openclaw](https://github.com/openclaw/openclaw)（★393,137） | [lsv5853/openclaw](https://github.com/lsv5853/openclaw) | 真正能干活的 AI 智能体框架 · AI agent that really does things | MIT |
+| [llama.cpp](https://github.com/ggml-org/llama.cpp)（★132,433） | [lsv5853/llama.cpp](https://github.com/lsv5853/llama.cpp) | 本地大模型推理（C/C++） · LLM inference in C/C++ | MIT |
 
 ## 科技工具 · Tech & Utilities
 
@@ -80,6 +82,14 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [syncthing](https://github.com/syncthing/syncthing)（★89,699） | [lsv5853/syncthing](https://github.com/lsv5853/syncthing) | 去中心化文件同步（可部署 NAS） · Decentralized file sync (NAS-ready) | MPL-2.0 |
 | [coolify](https://github.com/coollabsio/coolify)（★64,094） | [lsv5853/coolify](https://github.com/lsv5853/coolify) | 自托管应用发布平台（可部署 NAS） · Self-hostable PaaS (NAS-ready) | Apache-2.0 |
 | [puter](https://github.com/HeyPuter/puter)（★43,883） | [lsv5853/puter](https://github.com/lsv5853/puter) | 浏览器里的云电脑（可部署 NAS） · Internet computer in browser (NAS-ready) | AGPL-3.0 |
+| [core](https://github.com/home-assistant/core)（★91,742） | [lsv5853/core](https://github.com/lsv5853/core) | 开源智能家居中枢（可部署 NAS） · Open source home automation (NAS-ready) | Apache-2.0 |
+| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)（★77,786） | [lsv5853/AppFlowy](https://github.com/lsv5853/AppFlowy) | 带 AI 的协作平台（可部署 NAS） · AI workspace, Notion alternative (NAS-ready) | AGPL-3.0 |
+| [frigate](https://github.com/blakeblackshear/frigate)（★36,962） | [lsv5853/frigate](https://github.com/lsv5853/frigate) | 本地目标检测 NVR（可部署 NAS） · NVR with local object detection (NAS-ready) | MIT |
+| [actual](https://github.com/actualbudget/actual)（★29,770） | [lsv5853/actual](https://github.com/lsv5853/actual) | 本地优先个人记账（可部署 NAS） · Local-first personal finance (NAS-ready) | MIT |
+| [searxng](https://github.com/searxng/searxng)（★38,874） | [lsv5853/searxng](https://github.com/lsv5853/searxng) | 元搜索引擎（可部署 NAS） · Metasearch engine (NAS-ready) | AGPL-3.0 |
+| [halo](https://github.com/halo-dev/halo)（★40,033） | [lsv5853/halo](https://github.com/lsv5853/halo) | 开源建站工具（可部署 NAS） · Open source website builder (NAS-ready) | GPL-3.0 |
+| [wallabag](https://github.com/wallabag/wallabag)（★13,028） | [lsv5853/wallabag](https://github.com/lsv5853/wallabag) | 稍后阅读服务（可部署 NAS） · Read-it-later service (NAS-ready) | MIT |
+| [linkding](https://github.com/sissbruecker/linkding)（★11,351） | [lsv5853/linkding](https://github.com/lsv5853/linkding) | 自托管书签管理（可部署 NAS） · Self-hosted bookmark manager (NAS-ready) | MIT |
 
 ## 短视频 · Short Video
 
