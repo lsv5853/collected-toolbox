@@ -90,6 +90,15 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [halo](https://github.com/halo-dev/halo)（★40,033） | [lsv5853/halo](https://github.com/lsv5853/halo) | 开源建站工具（可部署 NAS） · Open source website builder (NAS-ready) | GPL-3.0 |
 | [wallabag](https://github.com/wallabag/wallabag)（★13,028） | [lsv5853/wallabag](https://github.com/lsv5853/wallabag) | 稍后阅读服务（可部署 NAS） · Read-it-later service (NAS-ready) | MIT |
 | [linkding](https://github.com/sissbruecker/linkding)（★11,351） | [lsv5853/linkding](https://github.com/lsv5853/linkding) | 自托管书签管理（可部署 NAS） · Self-hosted bookmark manager (NAS-ready) | MIT |
+| [penpot](https://github.com/penpot/penpot)（★61,752） | [lsv5853/penpot](https://github.com/lsv5853/penpot) | 开源设计协作平台，Figma 平替（可部署 NAS） · Open source design platform, Figma alternative (NAS-ready) | MPL-2.0 |
+| [gitea](https://github.com/go-gitea/gitea)（★58,733） | [lsv5853/gitea](https://github.com/lsv5853/gitea) | 轻量 Git 服务，GitHub/GitLab 平替（可部署 NAS） · Lightweight Git service, GitHub/GitLab alternative (NAS-ready) | MIT |
+| [ghostty](https://github.com/ghostty-org/ghostty)（★62,666） | [lsv5853/ghostty](https://github.com/lsv5853/ghostty) | 跨平台终端模拟器 · Cross-platform terminal emulator | MIT |
+| [cal.diy](https://github.com/calcom/cal.diy)（★49,424） | [lsv5853/cal.diy](https://github.com/lsv5853/cal.diy) | 开源预约排期平台，Calendly 平替（可部署 NAS） · Open source scheduling, Calendly alternative (NAS-ready) | MIT |
+| [documenso](https://github.com/documenso/documenso)（★15,585） | [lsv5853/documenso](https://github.com/lsv5853/documenso) | 开源电子签名平台，DocuSign 平替（可部署 NAS） · Open source e-signature, DocuSign alternative (NAS-ready) | AGPL-3.0 |
+| [firefly-iii](https://github.com/firefly-iii/firefly-iii)（★25,015） | [lsv5853/firefly-iii](https://github.com/lsv5853/firefly-iii) | 个人财务管理，YNAB 平替（可部署 NAS） · Personal finance, YNAB alternative (NAS-ready) | AGPL-3.0 |
+| [FreshRSS](https://github.com/FreshRSS/FreshRSS)（★16,428） | [lsv5853/FreshRSS](https://github.com/lsv5853/FreshRSS) | 自托管 RSS 聚合阅读器，Feedly/Inoreader 平替（可部署 NAS） · Self-hosted RSS aggregator, Feedly alternative (NAS-ready) | AGPL-3.0 |
+| [vikunja](https://github.com/go-vikunja/vikunja)（★5,877） | [lsv5853/vikunja](https://github.com/lsv5853/vikunja) | 任务与项目管理，Todoist/Trello 平替（可部署 NAS） · Task & project management, Todoist/Trello alternative (NAS-ready) | AGPL-3.0 |
+| [umami](https://github.com/umami-software/umami)（★39,734） | [lsv5853/umami](https://github.com/lsv5853/umami) | 轻量网站统计，Google Analytics 平替（可部署 NAS） · Lightweight web analytics, Google Analytics alternative (NAS-ready) | MIT |
 
 ## 短视频 · Short Video
 
@@ -131,3 +140,4 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)（★54,767） | [lsv5853/lx-music-desktop](https://github.com/lsv5853/lx-music-desktop) | 多音乐源桌面音乐播放器 · Electron music player with multiple sources | Apache-2.0 |
 | [iptvnator](https://github.com/4gray/iptvnator)（★7,505） | [lsv5853/iptvnator](https://github.com/lsv5853/iptvnator) | 跨平台 IPTV 播放器 · Cross-platform IPTV player | MIT |
 | [iptv-sources](https://github.com/HerbertHe/iptv-sources)（★9,040） | [lsv5853/iptv-sources](https://github.com/lsv5853/iptv-sources) | 自动更新的 IPTV 源列表 · Auto-updated IPTV sources | GPL-3.0 |
+| [Kavita](https://github.com/Kareadita/Kavita)（★11,952） | [lsv5853/Kavita](https://github.com/lsv5853/Kavita) | 电子书与漫画阅读服务器（可部署 NAS） · E-book & comic reading server (NAS-ready) | GPL-3.0 |
