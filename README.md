@@ -108,6 +108,7 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [nodewarden](https://github.com/shuaiplus/nodewarden)（★4,051） | [lsv5853/nodewarden](https://github.com/lsv5853/nodewarden) | 跑在 Cloudflare Workers 上的 Bitwarden 兼容服务器 · Bitwarden-compatible server on Cloudflare Workers | LGPL-3.0 |
 | [appwrite](https://github.com/appwrite/appwrite)（★57,790） | [lsv5853/appwrite](https://github.com/lsv5853/appwrite) | 开源后端云平台，Firebase/Supabase 平替（可部署 NAS） · Open source backend platform, Firebase/Supabase alternative (NAS-ready) | BSD-3-Clause |
 | [homepage](https://github.com/gethomepage/homepage)（★33,435） | [lsv5853/homepage](https://github.com/lsv5853/homepage) | 高度可定制的 NAS 导航页/应用仪表盘（可部署 NAS） · Customizable homepage / application dashboard (NAS-ready) | GPL-3.0 |
+| [deskflow-ddc](https://github.com/Fantasy1316/deskflow-ddc)（★18） | [lsv5853/deskflow-ddc](https://github.com/lsv5853/deskflow-ddc) | 两台电脑共用一块显示器和一套键鼠，DDC/CI 切换输入源 · Two PCs share one monitor and one keyboard/mouse, DDC/CI input switching | MIT |
 
 ## 短视频 · Short Video
 
