@@ -103,6 +103,8 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [headscale](https://github.com/juanfont/headscale)（★45,143） | [lsv5853/headscale](https://github.com/lsv5853/headscale) | Tailscale 自托管控制服务器（可部署 NAS） · Self-hosted Tailscale control server (NAS-ready) | BSD-3-Clause |
 | [karakeep](https://github.com/karakeep-app/karakeep)（★30,126） | [lsv5853/karakeep](https://github.com/lsv5853/karakeep) | 自托管书签与笔记聚合，AI 标签＋全文搜索（可部署 NAS） · Self-hosted bookmark & note aggregator, AI tagging + full-text search (NAS-ready) | AGPL-3.0 |
 | [LibreChat](https://github.com/LibreChat-AI/LibreChat)（★46,429） | [lsv5853/LibreChat](https://github.com/lsv5853/LibreChat) | 多模型 ChatGPT 风格界面，支持 MCP/Agents（可部署 NAS） · Multi-model ChatGPT-like UI, MCP/Agents support (NAS-ready) | MIT |
+| [memos-worker](https://github.com/souvenp/memos-worker)（★250） | [lsv5853/memos-worker](https://github.com/lsv5853/memos-worker) | 跑在 Cloudflare 上的随手记（Workers＋数据库） · Memos-style notes on Cloudflare Workers | AGPL-3.0 |
+| [nodewarden](https://github.com/shuaiplus/nodewarden)（★4,051） | [lsv5853/nodewarden](https://github.com/lsv5853/nodewarden) | 跑在 Cloudflare Workers 上的 Bitwarden 兼容服务器 · Bitwarden-compatible server on Cloudflare Workers | LGPL-3.0 |
 
 ## 短视频 · Short Video
 
