@@ -63,6 +63,7 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [CowAgent](https://github.com/zhayujie/CowAgent)（★47,518） | [lsv5853/CowAgent](https://github.com/lsv5853/CowAgent) | 可接微信的个人智能体 · Personal AI agent with WeChat channel | MIT |
 | [openclaw](https://github.com/openclaw/openclaw)（★393,137） | [lsv5853/openclaw](https://github.com/lsv5853/openclaw) | 真正能干活的 AI 智能体框架 · AI agent that really does things | MIT |
 | [llama.cpp](https://github.com/ggml-org/llama.cpp)（★132,433） | [lsv5853/llama.cpp](https://github.com/lsv5853/llama.cpp) | 本地大模型推理（C/C++） · LLM inference in C/C++ | MIT |
+| [unsloth](https://github.com/unslothai/unsloth)（★78,753） | [lsv5853/unsloth](https://github.com/lsv5853/unsloth) | 本地跑大模型、微调大模型的工具 · Run and fine-tune LLMs locally | Apache-2.0 |
 
 ## 科技工具 · Tech & Utilities
 
@@ -105,6 +106,8 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [LibreChat](https://github.com/LibreChat-AI/LibreChat)（★46,429） | [lsv5853/LibreChat](https://github.com/lsv5853/LibreChat) | 多模型 ChatGPT 风格界面，支持 MCP/Agents（可部署 NAS） · Multi-model ChatGPT-like UI, MCP/Agents support (NAS-ready) | MIT |
 | [memos-worker](https://github.com/souvenp/memos-worker)（★250） | [lsv5853/memos-worker](https://github.com/lsv5853/memos-worker) | 跑在 Cloudflare 上的随手记（Workers＋数据库） · Memos-style notes on Cloudflare Workers | AGPL-3.0 |
 | [nodewarden](https://github.com/shuaiplus/nodewarden)（★4,051） | [lsv5853/nodewarden](https://github.com/lsv5853/nodewarden) | 跑在 Cloudflare Workers 上的 Bitwarden 兼容服务器 · Bitwarden-compatible server on Cloudflare Workers | LGPL-3.0 |
+| [appwrite](https://github.com/appwrite/appwrite)（★57,790） | [lsv5853/appwrite](https://github.com/lsv5853/appwrite) | 开源后端云平台，Firebase/Supabase 平替（可部署 NAS） · Open source backend platform, Firebase/Supabase alternative (NAS-ready) | BSD-3-Clause |
+| [homepage](https://github.com/gethomepage/homepage)（★33,435） | [lsv5853/homepage](https://github.com/lsv5853/homepage) | 高度可定制的 NAS 导航页/应用仪表盘（可部署 NAS） · Customizable homepage / application dashboard (NAS-ready) | GPL-3.0 |
 
 ## 短视频 · Short Video
 
@@ -148,3 +151,6 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [iptv-sources](https://github.com/HerbertHe/iptv-sources)（★9,040） | [lsv5853/iptv-sources](https://github.com/lsv5853/iptv-sources) | 自动更新的 IPTV 源列表 · Auto-updated IPTV sources | GPL-3.0 |
 | [Kavita](https://github.com/Kareadita/Kavita)（★11,952） | [lsv5853/Kavita](https://github.com/lsv5853/Kavita) | 电子书与漫画阅读服务器（可部署 NAS） · E-book & comic reading server (NAS-ready) | GPL-3.0 |
 | [photoview](https://github.com/photoview/photoview)（★6,558） | [lsv5853/photoview](https://github.com/lsv5853/photoview) | 现代照片图库，Docker 自托管（可部署 NAS） · Modern photo gallery, Docker self-hosted (NAS-ready) | AGPL-3.0 |
+| [metube](https://github.com/alexta69/metube)（★15,134） | [lsv5853/metube](https://github.com/lsv5853/metube) | 自托管视频下载器，yt-dlp 网页界面（可部署 NAS） · Self-hosted video downloader, yt-dlp web UI (NAS-ready) | AGPL-3.0 |
+| [YesPlayMusic](https://github.com/qier222/YesPlayMusic)（★33,489） | [lsv5853/YesPlayMusic](https://github.com/lsv5853/YesPlayMusic) | 高颜值第三方网易云播放器 · Elegant third-party NetEase Cloud Music player | MIT |
+| [koreader](https://github.com/koreader/koreader)（★30,732） | [lsv5853/koreader](https://github.com/lsv5853/koreader) | 电子书阅读器，支持 PDF/EPUB 等多格式 · E-book reader supporting PDF, EPUB and more | AGPL-3.0 |
