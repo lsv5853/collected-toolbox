@@ -99,6 +99,10 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [FreshRSS](https://github.com/FreshRSS/FreshRSS)（★16,428） | [lsv5853/FreshRSS](https://github.com/lsv5853/FreshRSS) | 自托管 RSS 聚合阅读器，Feedly/Inoreader 平替（可部署 NAS） · Self-hosted RSS aggregator, Feedly alternative (NAS-ready) | AGPL-3.0 |
 | [vikunja](https://github.com/go-vikunja/vikunja)（★5,877） | [lsv5853/vikunja](https://github.com/lsv5853/vikunja) | 任务与项目管理，Todoist/Trello 平替（可部署 NAS） · Task & project management, Todoist/Trello alternative (NAS-ready) | AGPL-3.0 |
 | [umami](https://github.com/umami-software/umami)（★39,734） | [lsv5853/umami](https://github.com/lsv5853/umami) | 轻量网站统计，Google Analytics 平替（可部署 NAS） · Lightweight web analytics, Google Analytics alternative (NAS-ready) | MIT |
+| [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager)（★34,562） | [lsv5853/nginx-proxy-manager](https://github.com/lsv5853/nginx-proxy-manager) | Nginx 反向代理 Web 界面（可部署 NAS） · Nginx reverse proxy web UI (NAS-ready) | MIT |
+| [headscale](https://github.com/juanfont/headscale)（★45,143） | [lsv5853/headscale](https://github.com/lsv5853/headscale) | Tailscale 自托管控制服务器（可部署 NAS） · Self-hosted Tailscale control server (NAS-ready) | BSD-3-Clause |
+| [karakeep](https://github.com/karakeep-app/karakeep)（★30,126） | [lsv5853/karakeep](https://github.com/lsv5853/karakeep) | 自托管书签与笔记聚合，AI 标签＋全文搜索（可部署 NAS） · Self-hosted bookmark & note aggregator, AI tagging + full-text search (NAS-ready) | AGPL-3.0 |
+| [LibreChat](https://github.com/LibreChat-AI/LibreChat)（★46,429） | [lsv5853/LibreChat](https://github.com/lsv5853/LibreChat) | 多模型 ChatGPT 风格界面，支持 MCP/Agents（可部署 NAS） · Multi-model ChatGPT-like UI, MCP/Agents support (NAS-ready) | MIT |
 
 ## 短视频 · Short Video
 
@@ -141,3 +145,4 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [iptvnator](https://github.com/4gray/iptvnator)（★7,505） | [lsv5853/iptvnator](https://github.com/lsv5853/iptvnator) | 跨平台 IPTV 播放器 · Cross-platform IPTV player | MIT |
 | [iptv-sources](https://github.com/HerbertHe/iptv-sources)（★9,040） | [lsv5853/iptv-sources](https://github.com/lsv5853/iptv-sources) | 自动更新的 IPTV 源列表 · Auto-updated IPTV sources | GPL-3.0 |
 | [Kavita](https://github.com/Kareadita/Kavita)（★11,952） | [lsv5853/Kavita](https://github.com/lsv5853/Kavita) | 电子书与漫画阅读服务器（可部署 NAS） · E-book & comic reading server (NAS-ready) | GPL-3.0 |
+| [photoview](https://github.com/photoview/photoview)（★6,558） | [lsv5853/photoview](https://github.com/lsv5853/photoview) | 现代照片图库，Docker 自托管（可部署 NAS） · Modern photo gallery, Docker self-hosted (NAS-ready) | AGPL-3.0 |
