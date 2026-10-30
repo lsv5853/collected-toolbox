@@ -64,6 +64,7 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [openclaw](https://github.com/openclaw/openclaw)（★393,137） | [lsv5853/openclaw](https://github.com/lsv5853/openclaw) | 真正能干活的 AI 智能体框架 · AI agent that really does things | MIT |
 | [llama.cpp](https://github.com/ggml-org/llama.cpp)（★132,433） | [lsv5853/llama.cpp](https://github.com/lsv5853/llama.cpp) | 本地大模型推理（C/C++） · LLM inference in C/C++ | MIT |
 | [unsloth](https://github.com/unslothai/unsloth)（★78,753） | [lsv5853/unsloth](https://github.com/lsv5853/unsloth) | 本地跑大模型、微调大模型的工具 · Run and fine-tune LLMs locally | Apache-2.0 |
+| [deer-flow](https://github.com/bytedance/deer-flow)（★84,732） | [lsv5853/deer-flow](https://github.com/lsv5853/deer-flow) | 字节跳动开源长程 SuperAgent（调研、写代码、做内容） · ByteDance open-source long-horizon SuperAgent for research, coding and content creation | MIT |
 
 ## 科技工具 · Tech & Utilities
 
@@ -109,6 +110,9 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [appwrite](https://github.com/appwrite/appwrite)（★57,790） | [lsv5853/appwrite](https://github.com/lsv5853/appwrite) | 开源后端云平台，Firebase/Supabase 平替（可部署 NAS） · Open source backend platform, Firebase/Supabase alternative (NAS-ready) | BSD-3-Clause |
 | [homepage](https://github.com/gethomepage/homepage)（★33,435） | [lsv5853/homepage](https://github.com/lsv5853/homepage) | 高度可定制的 NAS 导航页/应用仪表盘（可部署 NAS） · Customizable homepage / application dashboard (NAS-ready) | GPL-3.0 |
 | [deskflow-ddc](https://github.com/Fantasy1316/deskflow-ddc)（★18） | [lsv5853/deskflow-ddc](https://github.com/lsv5853/deskflow-ddc) | 两台电脑共用一块显示器和一套键鼠，DDC/CI 切换输入源 · Two PCs share one monitor and one keyboard/mouse, DDC/CI input switching | MIT |
+| [bruno](https://github.com/usebruno/bruno)（★47,950） | [lsv5853/bruno](https://github.com/lsv5853/bruno) | 开源 API 测试 IDE（Postman 平替） · Open-source API testing IDE, a lightweight Postman alternative | MIT |
+| [huginn](https://github.com/huginn/huginn)（★50,214） | [lsv5853/huginn](https://github.com/lsv5853/huginn) | 自托管监控＋自动化 Agent（可部署 NAS） · Self-hosted monitoring and automation agents (NAS-deployable) | MIT |
+| [wordcraft](https://github.com/storytold/wordcraft)（★16,723） | [lsv5853/wordcraft](https://github.com/lsv5853/wordcraft) | 纯 Rust 重写的 Word（Word 平替方向） · Clean-room reimplementation of Microsoft Word in pure Rust | Apache-2.0 |
 
 ## 短视频 · Short Video
 
@@ -125,6 +129,7 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [ArcReel](https://github.com/ArcReel/ArcReel)（★5,687） | [lsv5853/ArcReel](https://github.com/lsv5853/ArcReel) | 小说转分镜视频工作台 · Novel-to-storyboard video studio | AGPL-3.0 |
 | [VoiceStudio](https://github.com/debpalash/VoiceStudio)（★84,573） | [lsv5853/VoiceStudio](https://github.com/lsv5853/VoiceStudio) | AI 语音工作台（配音） · AI voice studio (TTS/dubbing) | AGPL-3.0 |
 | [Concat](https://github.com/jub0t/Concat)（★11,499） | [lsv5853/Concat](https://github.com/lsv5853/Concat) | 本地优先的剪映平替 · Local-first CapCut alternative | AGPL-3.0 |
+| [autoclip](https://github.com/zhouxiaoka/autoclip)（★9,874） | [lsv5853/autoclip](https://github.com/lsv5853/autoclip) | 一个链接一键出片的 AI 视频剪辑（长视频自动剪短视频，带字幕封面发布文案） · One link, one click: AI video clipping tool turning long videos into shorts with subtitles, covers and captions | MIT |
 
 ## 多媒体 · Multimedia
 
@@ -155,3 +160,8 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [metube](https://github.com/alexta69/metube)（★15,134） | [lsv5853/metube](https://github.com/lsv5853/metube) | 自托管视频下载器，yt-dlp 网页界面（可部署 NAS） · Self-hosted video downloader, yt-dlp web UI (NAS-ready) | AGPL-3.0 |
 | [YesPlayMusic](https://github.com/qier222/YesPlayMusic)（★33,489） | [lsv5853/YesPlayMusic](https://github.com/lsv5853/YesPlayMusic) | 高颜值第三方网易云播放器 · Elegant third-party NetEase Cloud Music player | MIT |
 | [koreader](https://github.com/koreader/koreader)（★30,732） | [lsv5853/koreader](https://github.com/lsv5853/koreader) | 电子书阅读器，支持 PDF/EPUB 等多格式 · E-book reader supporting PDF, EPUB and more | AGPL-3.0 |
+| [spotube](https://github.com/team-spotube/spotube)（★50,487） | [lsv5853/spotube](https://github.com/lsv5853/spotube) | 开源音乐流媒体应用（桌面＋移动端） · Open-source music streaming app for desktop and mobile | AGPL-3.0 |
+| [tvheadend](https://github.com/tvheadend/tvheadend)（★3,565） | [lsv5853/tvheadend](https://github.com/lsv5853/tvheadend) | Linux 电视流媒体服务器（可部署 NAS，需调谐硬件或 IPTV 源） · TV streaming server for Linux (NAS-deployable; needs tuner hardware or IPTV source) | GPL-3.0 |
+| [Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated)（★6,516） | [lsv5853/Calibre-Web-Automated](https://github.com/lsv5853/Calibre-Web-Automated) | Calibre-Web 自动化版，电子书库全自动管理（可部署 NAS） · Automated Calibre-Web: fully automated ebook library management (NAS-deployable) | GPL-3.0 |
+| [filmcraft](https://github.com/storytold/filmcraft)（★16,936） | [lsv5853/filmcraft](https://github.com/lsv5853/filmcraft) | 纯 Rust 非线性视频编辑器 · Open-source nonlinear video editor written from scratch in pure Rust | Apache-2.0 |
+| [aerial-tv](https://github.com/pengchujin/aerial-tv)（★8,028） | [lsv5853/aerial-tv](https://github.com/lsv5853/aerial-tv) | tvOS 风格开源 Android TV 桌面，无广告 · tvOS-style open-source Android TV launcher, ad-free | MIT |
