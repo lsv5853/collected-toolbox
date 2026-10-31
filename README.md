@@ -114,6 +114,13 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [bruno](https://github.com/usebruno/bruno)（★47,950） | [lsv5853/bruno](https://github.com/lsv5853/bruno) | 开源 API 测试 IDE（Postman 平替） · Open-source API testing IDE, a lightweight Postman alternative | MIT |
 | [huginn](https://github.com/huginn/huginn)（★50,214） | [lsv5853/huginn](https://github.com/lsv5853/huginn) | 自托管监控＋自动化 Agent（可部署 NAS） · Self-hosted monitoring and automation agents (NAS-deployable) | MIT |
 | [wordcraft](https://github.com/storytold/wordcraft)（★16,723） | [lsv5853/wordcraft](https://github.com/lsv5853/wordcraft) | 纯 Rust 重写的 Word（Word 平替方向） · Clean-room reimplementation of Microsoft Word in pure Rust | Apache-2.0 |
+| [portainer](https://github.com/portainer/portainer)（★38,756） | [lsv5853/portainer](https://github.com/lsv5853/portainer) | Docker 与 K8s 可视化管理面板（可部署 NAS） · Visual Docker/Kubernetes management panel (NAS-deployable) | Zlib |
+| [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)（★38,011） | [lsv5853/AdGuardHome](https://github.com/lsv5853/AdGuardHome) | 全网去广告 DNS 服务器（可部署 NAS） · Network-wide ad-blocking DNS server (NAS-deployable) | GPL-3.0 |
+| [ntfy](https://github.com/binwiederhier/ntfy)（★35,202） | [lsv5853/ntfy](https://github.com/lsv5853/ntfy) | 自托管推送通知服务（可部署 NAS） · Self-hosted push notification service (NAS-deployable) | Apache-2.0 |
+| [dozzle](https://github.com/amir20/dozzle)（★14,772） | [lsv5853/dozzle](https://github.com/lsv5853/dozzle) | 容器日志实时查看（可部署 NAS） · Realtime container log viewer (NAS-deployable) | MIT |
+| [grafana](https://github.com/grafana/grafana)（★77,598） | [lsv5853/grafana](https://github.com/lsv5853/grafana) | 监控与数据可视化看板（可部署 NAS） · Observability dashboards and visualization (NAS-deployable) | AGPL-3.0 |
+| [analytics](https://github.com/plausible/analytics)（★29,733） | [lsv5853/analytics](https://github.com/lsv5853/analytics) | 隐私友好网站统计，Google Analytics 平替（可部署 NAS） · Privacy-first web analytics, Google Analytics alternative (NAS-deployable) | AGPL-3.0 |
+| [ShareX](https://github.com/ShareX/ShareX)（★40,552） | [lsv5853/ShareX](https://github.com/lsv5853/ShareX) | Windows 截图、录屏与分享工具 · Windows screen capture, recording and sharing tool | GPL-3.0 |
 
 ## 短视频 · Short Video
 
@@ -166,3 +173,6 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated)（★6,516） | [lsv5853/Calibre-Web-Automated](https://github.com/lsv5853/Calibre-Web-Automated) | Calibre-Web 自动化版，电子书库全自动管理（可部署 NAS） · Automated Calibre-Web: fully automated ebook library management (NAS-deployable) | GPL-3.0 |
 | [filmcraft](https://github.com/storytold/filmcraft)（★16,936） | [lsv5853/filmcraft](https://github.com/lsv5853/filmcraft) | 纯 Rust 非线性视频编辑器 · Open-source nonlinear video editor written from scratch in pure Rust | Apache-2.0 |
 | [aerial-tv](https://github.com/pengchujin/aerial-tv)（★8,028） | [lsv5853/aerial-tv](https://github.com/lsv5853/aerial-tv) | tvOS 风格开源 Android TV 桌面，无广告 · tvOS-style open-source Android TV launcher, ad-free | MIT |
+| [obs-studio](https://github.com/obsproject/obs-studio)（★78,703） | [lsv5853/obs-studio](https://github.com/lsv5853/obs-studio) | 免费开源直播与录屏软件 · Free open-source live streaming and screen recording | GPL-2.0 |
+| [shotcut](https://github.com/mltframework/shotcut)（★15,544） | [lsv5853/shotcut](https://github.com/lsv5853/shotcut) | 跨平台视频编辑器，Premiere 平替 · Cross-platform video editor, Premiere alternative | GPL-3.0 |
+| [kdenlive](https://github.com/KDE/kdenlive)（★6,014） | [lsv5853/kdenlive](https://github.com/lsv5853/kdenlive) | 视频非编软件，Premiere 平替 · Free video editor, Premiere alternative | GPL-3.0 |
