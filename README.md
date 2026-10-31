@@ -65,6 +65,7 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [llama.cpp](https://github.com/ggml-org/llama.cpp)（★132,433） | [lsv5853/llama.cpp](https://github.com/lsv5853/llama.cpp) | 本地大模型推理（C/C++） · LLM inference in C/C++ | MIT |
 | [unsloth](https://github.com/unslothai/unsloth)（★78,753） | [lsv5853/unsloth](https://github.com/lsv5853/unsloth) | 本地跑大模型、微调大模型的工具 · Run and fine-tune LLMs locally | Apache-2.0 |
 | [deer-flow](https://github.com/bytedance/deer-flow)（★84,732） | [lsv5853/deer-flow](https://github.com/lsv5853/deer-flow) | 字节跳动开源长程 SuperAgent（调研、写代码、做内容） · ByteDance open-source long-horizon SuperAgent for research, coding and content creation | MIT |
+| [handraw-style](https://github.com/yang0/handraw-style)（★6,738） | [lsv5853/handraw-style](https://github.com/lsv5853/handraw-style) | 手绘风格编号画廊与双语提示词 Skill：365 种手绘风格＋170 种排版图型＋36 种主题色，选编号出中英双语生图提示词，适合公众号题图、小红书封面、长文插图；免费可商用，须保留作者与原地址 · Hand-drawn style gallery and bilingual prompt Skill: 365 styles, 170 layouts, 36 theme colors; pick numbers to get verified bilingual image prompts for official-account covers, social cards and article illustrations; free for commercial use with attribution | 宽松署名许可 |
 
 ## 科技工具 · Tech & Utilities
 
