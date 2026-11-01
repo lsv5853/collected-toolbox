@@ -66,6 +66,7 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [unsloth](https://github.com/unslothai/unsloth)（★78,753） | [lsv5853/unsloth](https://github.com/lsv5853/unsloth) | 本地跑大模型、微调大模型的工具 · Run and fine-tune LLMs locally | Apache-2.0 |
 | [deer-flow](https://github.com/bytedance/deer-flow)（★84,732） | [lsv5853/deer-flow](https://github.com/lsv5853/deer-flow) | 字节跳动开源长程 SuperAgent（调研、写代码、做内容） · ByteDance open-source long-horizon SuperAgent for research, coding and content creation | MIT |
 | [handraw-style](https://github.com/yang0/handraw-style)（★6,738） | [lsv5853/handraw-style](https://github.com/lsv5853/handraw-style) | 手绘风格编号画廊与双语提示词 Skill：365 种手绘风格＋170 种排版图型＋36 种主题色，选编号出中英双语生图提示词，适合公众号题图、小红书封面、长文插图；免费可商用，须保留作者与原地址 · Hand-drawn style gallery and bilingual prompt Skill: 365 styles, 170 layouts, 36 theme colors; pick numbers to get verified bilingual image prompts for official-account covers, social cards and article illustrations; free for commercial use with attribution | 宽松署名许可 |
+| [new-api](https://github.com/QuantumNous/new-api)（★51,138） | [lsv5853/new-api](https://github.com/lsv5853/new-api) | 开源 AI 网关，兼容 OpenAI/Claude/Gemini（可部署 NAS） · Open-source AI gateway, OpenAI/Claude/Gemini-compatible (NAS-deployable) | AGPL-3.0 |
 
 ## 科技工具 · Tech & Utilities
 
@@ -121,6 +122,10 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [grafana](https://github.com/grafana/grafana)（★77,598） | [lsv5853/grafana](https://github.com/lsv5853/grafana) | 监控与数据可视化看板（可部署 NAS） · Observability dashboards and visualization (NAS-deployable) | AGPL-3.0 |
 | [analytics](https://github.com/plausible/analytics)（★29,733） | [lsv5853/analytics](https://github.com/lsv5853/analytics) | 隐私友好网站统计，Google Analytics 平替（可部署 NAS） · Privacy-first web analytics, Google Analytics alternative (NAS-deployable) | AGPL-3.0 |
 | [ShareX](https://github.com/ShareX/ShareX)（★40,552） | [lsv5853/ShareX](https://github.com/lsv5853/ShareX) | Windows 截图、录屏与分享工具 · Windows screen capture, recording and sharing tool | GPL-3.0 |
+| [glance](https://github.com/glanceapp/glance)（★37,947） | [lsv5853/glance](https://github.com/lsv5853/glance) | 自托管聚合仪表盘（可部署 NAS） · Self-hosted dashboard aggregating feeds (NAS-deployable) | AGPL-3.0 |
+| [siyuan](https://github.com/siyuan-note/siyuan)（★47,028） | [lsv5853/siyuan](https://github.com/lsv5853/siyuan) | 隐私优先自托管知识库（可部署 NAS） · Privacy-first self-hosted knowledge workspace (NAS-deployable) | AGPL-3.0 |
+| [evcc](https://github.com/evcc-io/evcc)（★7,490） | [lsv5853/evcc](https://github.com/lsv5853/evcc) | 太阳能智能充电（可部署 NAS） · Solar-aware smart EV charging (NAS-deployable) | MIT |
+| [cat-catch](https://github.com/xifangczy/cat-catch)（★22,686） | [lsv5853/cat-catch](https://github.com/lsv5853/cat-catch) | 浏览器资源嗅探扩展 · Browser media-sniffing extension | GPL-3.0 |
 
 ## 短视频 · Short Video
 
@@ -176,3 +181,8 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [obs-studio](https://github.com/obsproject/obs-studio)（★78,703） | [lsv5853/obs-studio](https://github.com/lsv5853/obs-studio) | 免费开源直播与录屏软件 · Free open-source live streaming and screen recording | GPL-2.0 |
 | [shotcut](https://github.com/mltframework/shotcut)（★15,544） | [lsv5853/shotcut](https://github.com/lsv5853/shotcut) | 跨平台视频编辑器，Premiere 平替 · Cross-platform video editor, Premiere alternative | GPL-3.0 |
 | [kdenlive](https://github.com/KDE/kdenlive)（★6,014） | [lsv5853/kdenlive](https://github.com/lsv5853/kdenlive) | 视频非编软件，Premiere 平替 · Free video editor, Premiere alternative | GPL-3.0 |
+| [srs](https://github.com/ossrs/srs)（★29,410） | [lsv5853/srs](https://github.com/lsv5853/srs) | 实时音视频服务器（可部署 NAS） · Simple high-performance real-time media server (NAS-deployable) | MIT |
+| [mediamtx](https://github.com/bluenviron/mediamtx)（★20,573） | [lsv5853/mediamtx](https://github.com/lsv5853/mediamtx) | 实时媒体服务器与网关（可部署 NAS） · Ready-to-use real-time media server & gateway (NAS-deployable) | MIT |
+| [go2rtc](https://github.com/AlexxIT/go2rtc)（★14,554） | [lsv5853/go2rtc](https://github.com/lsv5853/go2rtc) | 摄像头流媒体应用（可部署 NAS） · Ultimate camera streaming app (NAS-deployable) | MIT |
+| [tubearchivist](https://github.com/tubearchivist/tubearchivist)（★8,562） | [lsv5853/tubearchivist](https://github.com/lsv5853/tubearchivist) | 自托管 YouTube 媒体服务器（可部署 NAS） · Self-hosted YouTube media server (NAS-deployable) | GPL-3.0 |
+| [streama](https://github.com/streamaserver/streama)（★9,820） | [lsv5853/streama](https://github.com/lsv5853/streama) | 自托管流媒体服务器（可部署 NAS） · Self-hosted streaming media server (NAS-deployable) | MIT |
