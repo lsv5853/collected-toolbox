@@ -195,4 +195,4 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [Radarr](https://github.com/Radarr/Radarr)（★14,701） | [lsv5853/Radarr](https://github.com/lsv5853/Radarr) | 电影管理（可部署 NAS） · Movie organizer and manager (NAS-deployable) | GPL-3.0 |
 | [Prowlarr](https://github.com/Prowlarr/Prowlarr)（★7,487） | [lsv5853/Prowlarr](https://github.com/lsv5853/Prowlarr) | 索引器管理（可部署 NAS） · Indexer manager and proxy for the *arr stack (NAS-deployable) | GPL-3.0 |
 | [owncast](https://github.com/owncast/owncast)（★11,643） | [lsv5853/owncast](https://github.com/lsv5853/owncast) | 自托管直播服务器（可部署 NAS） · Self-hosted live streaming server (NAS-deployable) | MIT |
-| [sunshine](https://github.com/LizardByte/sunshine)（★42,919） | [lsv5853/sunshine](https://github.com/lsv5853/sunshine) | 自托管游戏串流主机（可部署 NAS） · Self-hosted game stream host for Moonlight (NAS-deployable) | GPL-3.0 |
+| [Sunshine](https://github.com/LizardByte/Sunshine)（★42,919） | [lsv5853/Sunshine](https://github.com/lsv5853/Sunshine) | 自托管游戏串流主机（可部署 NAS） · Self-hosted game stream host for Moonlight (NAS-deployable) | GPL-3.0 |
