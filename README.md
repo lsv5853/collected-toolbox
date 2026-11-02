@@ -67,6 +67,7 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [deer-flow](https://github.com/bytedance/deer-flow)（★84,732） | [lsv5853/deer-flow](https://github.com/lsv5853/deer-flow) | 字节跳动开源长程 SuperAgent（调研、写代码、做内容） · ByteDance open-source long-horizon SuperAgent for research, coding and content creation | MIT |
 | [handraw-style](https://github.com/yang0/handraw-style)（★6,738） | [lsv5853/handraw-style](https://github.com/lsv5853/handraw-style) | 手绘风格编号画廊与双语提示词 Skill：365 种手绘风格＋170 种排版图型＋36 种主题色，选编号出中英双语生图提示词，适合公众号题图、小红书封面、长文插图；免费可商用，须保留作者与原地址 · Hand-drawn style gallery and bilingual prompt Skill: 365 styles, 170 layouts, 36 theme colors; pick numbers to get verified bilingual image prompts for official-account covers, social cards and article illustrations; free for commercial use with attribution | 宽松署名许可 |
 | [new-api](https://github.com/QuantumNous/new-api)（★51,138） | [lsv5853/new-api](https://github.com/lsv5853/new-api) | 开源 AI 网关，兼容 OpenAI/Claude/Gemini（可部署 NAS） · Open-source AI gateway, OpenAI/Claude/Gemini-compatible (NAS-deployable) | AGPL-3.0 |
+| [mem0](https://github.com/mem0ai/mem0)（★68,287） | [lsv5853/mem0](https://github.com/lsv5853/mem0) | AI Agent 记忆层 · Memory layer for AI agents | Apache-2.0 |
 
 ## 科技工具 · Tech & Utilities
 
@@ -126,6 +127,9 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [siyuan](https://github.com/siyuan-note/siyuan)（★47,028） | [lsv5853/siyuan](https://github.com/lsv5853/siyuan) | 隐私优先自托管知识库（可部署 NAS） · Privacy-first self-hosted knowledge workspace (NAS-deployable) | AGPL-3.0 |
 | [evcc](https://github.com/evcc-io/evcc)（★7,490） | [lsv5853/evcc](https://github.com/lsv5853/evcc) | 太阳能智能充电（可部署 NAS） · Solar-aware smart EV charging (NAS-deployable) | MIT |
 | [cat-catch](https://github.com/xifangczy/cat-catch)（★22,686） | [lsv5853/cat-catch](https://github.com/lsv5853/cat-catch) | 浏览器资源嗅探扩展 · Browser media-sniffing extension | GPL-3.0 |
+| [mealie](https://github.com/mealie-recipes/mealie)（★13,778） | [lsv5853/mealie](https://github.com/lsv5853/mealie) | 自托管菜谱管理与备餐计划（可部署 NAS） · Self-hosted recipe manager and meal planner (NAS-deployable) | AGPL-3.0 |
+| [Trilium](https://github.com/TriliumNext/Trilium)（★38,669） | [lsv5853/Trilium](https://github.com/lsv5853/Trilium) | 个人知识库（可部署 NAS） · Personal knowledge base (NAS-deployable) | AGPL-3.0 |
+| [changedetection.io](https://github.com/dgtlmoon/changedetection.io)（★35,461） | [lsv5853/changedetection.io](https://github.com/lsv5853/changedetection.io) | 网站变动监测（可部署 NAS） · Website change detection and monitoring (NAS-deployable) | Apache-2.0 |
 
 ## 短视频 · Short Video
 
@@ -186,3 +190,9 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [go2rtc](https://github.com/AlexxIT/go2rtc)（★14,554） | [lsv5853/go2rtc](https://github.com/lsv5853/go2rtc) | 摄像头流媒体应用（可部署 NAS） · Ultimate camera streaming app (NAS-deployable) | MIT |
 | [tubearchivist](https://github.com/tubearchivist/tubearchivist)（★8,562） | [lsv5853/tubearchivist](https://github.com/lsv5853/tubearchivist) | 自托管 YouTube 媒体服务器（可部署 NAS） · Self-hosted YouTube media server (NAS-deployable) | GPL-3.0 |
 | [streama](https://github.com/streamaserver/streama)（★9,820） | [lsv5853/streama](https://github.com/lsv5853/streama) | 自托管流媒体服务器（可部署 NAS） · Self-hosted streaming media server (NAS-deployable) | MIT |
+| [komga](https://github.com/gotson/komga)（★6,812） | [lsv5853/komga](https://github.com/lsv5853/komga) | 漫画/电子书媒体服务器（可部署 NAS） · Media server for comics and eBooks (NAS-deployable) | MIT |
+| [Sonarr](https://github.com/Sonarr/Sonarr)（★17,530） | [lsv5853/Sonarr](https://github.com/lsv5853/Sonarr) | 智能剧集管理（可部署 NAS） · Smart PVR for TV series (NAS-deployable) | GPL-3.0 |
+| [Radarr](https://github.com/Radarr/Radarr)（★14,701） | [lsv5853/Radarr](https://github.com/lsv5853/Radarr) | 电影管理（可部署 NAS） · Movie organizer and manager (NAS-deployable) | GPL-3.0 |
+| [Prowlarr](https://github.com/Prowlarr/Prowlarr)（★7,487） | [lsv5853/Prowlarr](https://github.com/lsv5853/Prowlarr) | 索引器管理（可部署 NAS） · Indexer manager and proxy for the *arr stack (NAS-deployable) | GPL-3.0 |
+| [owncast](https://github.com/owncast/owncast)（★11,643） | [lsv5853/owncast](https://github.com/lsv5853/owncast) | 自托管直播服务器（可部署 NAS） · Self-hosted live streaming server (NAS-deployable) | MIT |
+| [sunshine](https://github.com/LizardByte/sunshine)（★42,919） | [lsv5853/sunshine](https://github.com/lsv5853/sunshine) | 自托管游戏串流主机（可部署 NAS） · Self-hosted game stream host for Moonlight (NAS-deployable) | GPL-3.0 |
