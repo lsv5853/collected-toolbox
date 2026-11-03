@@ -68,6 +68,10 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [handraw-style](https://github.com/yang0/handraw-style)（★6,738） | [lsv5853/handraw-style](https://github.com/lsv5853/handraw-style) | 手绘风格编号画廊与双语提示词 Skill：365 种手绘风格＋170 种排版图型＋36 种主题色，选编号出中英双语生图提示词，适合公众号题图、小红书封面、长文插图；免费可商用，须保留作者与原地址 · Hand-drawn style gallery and bilingual prompt Skill: 365 styles, 170 layouts, 36 theme colors; pick numbers to get verified bilingual image prompts for official-account covers, social cards and article illustrations; free for commercial use with attribution | 宽松署名许可 |
 | [new-api](https://github.com/QuantumNous/new-api)（★51,138） | [lsv5853/new-api](https://github.com/lsv5853/new-api) | 开源 AI 网关，兼容 OpenAI/Claude/Gemini（可部署 NAS） · Open-source AI gateway, OpenAI/Claude/Gemini-compatible (NAS-deployable) | AGPL-3.0 |
 | [mem0](https://github.com/mem0ai/mem0)（★68,287） | [lsv5853/mem0](https://github.com/lsv5853/mem0) | AI Agent 记忆层 · Memory layer for AI agents | Apache-2.0 |
+| [ppt-master](https://github.com/hugohe3/ppt-master)（★73,078） | [lsv5853/ppt-master](https://github.com/lsv5853/ppt-master) | AI 把文档或主题生成原生 PPTX（原生形状与切换效果） · AI turns documents or topics into native PowerPoint decks with native shapes and transitions | MIT |
+| [banana-slides](https://github.com/Anionex/banana-slides)（★15,941） | [lsv5853/banana-slides](https://github.com/lsv5853/banana-slides) | 一站式 AI PPT 生成，支持模板图与素材、一句话出片、口头修改、导出可编辑 pptx · One-stop AI slide generation with template images, prompt-based creation, voice edits, editable pptx export | AGPL-3.0 |
+| [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)（★29,212） | [lsv5853/guizang-ppt-skill](https://github.com/lsv5853/guizang-ppt-skill) | 给 AI 智能体用的 PPT 生成 Skill，杂志风与瑞士风 HTML 幻灯片 · AI-agent skill for generating polished HTML slide decks in editorial magazine and Swiss styles | AGPL-3.0 |
+| [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)（★32,980） | [lsv5853/OfficeCLI](https://github.com/lsv5853/OfficeCLI) | 为 AI 智能体打造的 Office 套件，可读改生成 PPT · Office suite purpose-built for AI agents to read, edit and generate presentations | Apache-2.0 |
 
 ## 科技工具 · Tech & Utilities
 
@@ -131,6 +135,9 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [Trilium](https://github.com/TriliumNext/Trilium)（★38,669） | [lsv5853/Trilium](https://github.com/lsv5853/Trilium) | 个人知识库（可部署 NAS） · Personal knowledge base (NAS-deployable) | AGPL-3.0 |
 | [changedetection.io](https://github.com/dgtlmoon/changedetection.io)（★35,461） | [lsv5853/changedetection.io](https://github.com/lsv5853/changedetection.io) | 网站变动监测（可部署 NAS） · Website change detection and monitoring (NAS-deployable) | Apache-2.0 |
 | [linkwarden](https://github.com/linkwarden/linkwarden)（★20,307） | [lsv5853/linkwarden](https://github.com/lsv5853/linkwarden) | 自托管协作书签管理，自动存档网页全文和截图（可部署 NAS） · Self-hosted collaborative bookmark manager with full-page archiving and screenshots (NAS-deployable) | AGPL-3.0 |
+| [PPTist](https://github.com/pipipi-pikachu/PPTist)（★9,460） | [lsv5853/PPTist](https://github.com/lsv5853/PPTist) | 网页版 PowerPoint 平替，在线做幻灯片（可自托管） · Online presentation app replicating PowerPoint, self-hostable | AGPL-3.0 |
+| [slidev](https://github.com/slidevjs/slidev)（★49,341） | [lsv5853/slidev](https://github.com/lsv5853/slidev) | 用 Markdown 写幻灯片 · Markdown-based presentation slides for developers | MIT |
+| [reveal.js](https://github.com/hakimel/reveal.js)（★72,514） | [lsv5853/reveal.js](https://github.com/lsv5853/reveal.js) | HTML 演示框架 · The HTML presentation framework | MIT |
 
 ## 短视频 · Short Video
 
