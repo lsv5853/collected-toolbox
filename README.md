@@ -130,6 +130,7 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [mealie](https://github.com/mealie-recipes/mealie)（★13,778） | [lsv5853/mealie](https://github.com/lsv5853/mealie) | 自托管菜谱管理与备餐计划（可部署 NAS） · Self-hosted recipe manager and meal planner (NAS-deployable) | AGPL-3.0 |
 | [Trilium](https://github.com/TriliumNext/Trilium)（★38,669） | [lsv5853/Trilium](https://github.com/lsv5853/Trilium) | 个人知识库（可部署 NAS） · Personal knowledge base (NAS-deployable) | AGPL-3.0 |
 | [changedetection.io](https://github.com/dgtlmoon/changedetection.io)（★35,461） | [lsv5853/changedetection.io](https://github.com/lsv5853/changedetection.io) | 网站变动监测（可部署 NAS） · Website change detection and monitoring (NAS-deployable) | Apache-2.0 |
+| [linkwarden](https://github.com/linkwarden/linkwarden)（★20,307） | [lsv5853/linkwarden](https://github.com/lsv5853/linkwarden) | 自托管协作书签管理，自动存档网页全文和截图（可部署 NAS） · Self-hosted collaborative bookmark manager with full-page archiving and screenshots (NAS-deployable) | AGPL-3.0 |
 
 ## 短视频 · Short Video
 
@@ -196,3 +197,5 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [Prowlarr](https://github.com/Prowlarr/Prowlarr)（★7,487） | [lsv5853/Prowlarr](https://github.com/lsv5853/Prowlarr) | 索引器管理（可部署 NAS） · Indexer manager and proxy for the *arr stack (NAS-deployable) | GPL-3.0 |
 | [owncast](https://github.com/owncast/owncast)（★11,643） | [lsv5853/owncast](https://github.com/lsv5853/owncast) | 自托管直播服务器（可部署 NAS） · Self-hosted live streaming server (NAS-deployable) | MIT |
 | [Sunshine](https://github.com/LizardByte/Sunshine)（★42,919） | [lsv5853/Sunshine](https://github.com/lsv5853/Sunshine) | 自托管游戏串流主机（可部署 NAS） · Self-hosted game stream host for Moonlight (NAS-deployable) | GPL-3.0 |
+| [PeerTube](https://github.com/Chocobozzz/PeerTube)（★15,385） | [lsv5853/PeerTube](https://github.com/lsv5853/PeerTube) | 去中心化视频平台，自己搭不受平台规则管的视频站（可部署 NAS） · Decentralized video platform, self-hosted video site free from platform rules (NAS-deployable) | AGPL-3.0 |
+| [NewPipe](https://github.com/TeamNewPipe/NewPipe)（★40,414） | [lsv5853/NewPipe](https://github.com/lsv5853/NewPipe) | 安卓轻量开源 YouTube 客户端，无广告、无需谷歌服务框架 · Lightweight libre YouTube client for Android, ad-free, no Google services required | GPL-3.0 |
