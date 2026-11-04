@@ -138,6 +138,7 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [PPTist](https://github.com/pipipi-pikachu/PPTist)（★9,460） | [lsv5853/PPTist](https://github.com/lsv5853/PPTist) | 网页版 PowerPoint 平替，在线做幻灯片（可自托管） · Online presentation app replicating PowerPoint, self-hostable | AGPL-3.0 |
 | [slidev](https://github.com/slidevjs/slidev)（★49,341） | [lsv5853/slidev](https://github.com/lsv5853/slidev) | 用 Markdown 写幻灯片 · Markdown-based presentation slides for developers | MIT |
 | [reveal.js](https://github.com/hakimel/reveal.js)（★72,514） | [lsv5853/reveal.js](https://github.com/lsv5853/reveal.js) | HTML 演示框架 · The HTML presentation framework | MIT |
+| [sftpgo](https://github.com/drakkan/sftpgo)（★12,765） | [lsv5853/sftpgo](https://github.com/lsv5853/sftpgo) | 全功能文件传输服务器，支持 SFTP、FTP/S 与 HTTP/S（可部署 NAS） · Full-featured file transfer server with SFTP, FTP/S and HTTP/S support (NAS-deployable) | AGPL-3.0 |
 
 ## 短视频 · Short Video
 
