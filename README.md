@@ -72,6 +72,11 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [banana-slides](https://github.com/Anionex/banana-slides)（★15,941） | [lsv5853/banana-slides](https://github.com/lsv5853/banana-slides) | 一站式 AI PPT 生成，支持模板图与素材、一句话出片、口头修改、导出可编辑 pptx · One-stop AI slide generation with template images, prompt-based creation, voice edits, editable pptx export | AGPL-3.0 |
 | [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)（★29,212） | [lsv5853/guizang-ppt-skill](https://github.com/lsv5853/guizang-ppt-skill) | 给 AI 智能体用的 PPT 生成 Skill，杂志风与瑞士风 HTML 幻灯片 · AI-agent skill for generating polished HTML slide decks in editorial magazine and Swiss styles | AGPL-3.0 |
 | [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)（★32,980） | [lsv5853/OfficeCLI](https://github.com/lsv5853/OfficeCLI) | 为 AI 智能体打造的 Office 套件，可读改生成 PPT · Office suite purpose-built for AI agents to read, edit and generate presentations | Apache-2.0 |
+| [continue](https://github.com/continuedev/continue)（★36,407） | [lsv5853/continue](https://github.com/lsv5853/continue) | 开源 AI 编程助手（VS Code / JetBrains 插件） · Open-source AI coding agent (VS Code / JetBrains extension) | Apache-2.0 |
+| [superpowers](https://github.com/obra/superpowers)（★312,552） | [lsv5853/superpowers](https://github.com/lsv5853/superpowers) | 智能体技能框架与软件开发方法论（Claude Code 技能库） · Agentic skills framework and software development methodology | MIT |
+| [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)（★56,128） | [lsv5853/scientific-agent-skills](https://github.com/lsv5853/scientific-agent-skills) | 把任意 AI 智能体变成 AI 科学家：177 个已验证科研技能＋100 多个科学数据库 · Turn any AI agent into an AI scientist: 177 validated science skills plus 100+ scientific databases | MIT |
+| [PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate)（★38,207） | [lsv5853/PDFMathTranslate](https://github.com/lsv5853/PDFMathTranslate) | 完整保留排版的 PDF 论文双语翻译（支持公式） · Bilingual PDF paper translation preserving layout and math formulas | AGPL-3.0 |
+| [paper-qa](https://github.com/Future-House/paper-qa)（★9,546） | [lsv5853/paper-qa](https://github.com/lsv5853/paper-qa) | 面向科学文献的高精度带引用问答 RAG · High-accuracy RAG for answering questions from scientific documents with citations | Apache-2.0 |
 
 ## 科技工具 · Tech & Utilities
 
@@ -139,6 +144,10 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [slidev](https://github.com/slidevjs/slidev)（★49,341） | [lsv5853/slidev](https://github.com/lsv5853/slidev) | 用 Markdown 写幻灯片 · Markdown-based presentation slides for developers | MIT |
 | [reveal.js](https://github.com/hakimel/reveal.js)（★72,514） | [lsv5853/reveal.js](https://github.com/lsv5853/reveal.js) | HTML 演示框架 · The HTML presentation framework | MIT |
 | [sftpgo](https://github.com/drakkan/sftpgo)（★12,765） | [lsv5853/sftpgo](https://github.com/lsv5853/sftpgo) | 全功能文件传输服务器，支持 SFTP、FTP/S 与 HTTP/S（可部署 NAS） · Full-featured file transfer server with SFTP, FTP/S and HTTP/S support (NAS-deployable) | AGPL-3.0 |
+| [FreeCAD](https://github.com/FreeCAD/FreeCAD)（★35,135） | [lsv5853/FreeCAD](https://github.com/lsv5853/FreeCAD) | 开源多平台 3D 参数化建模（CAD） · Free and open-source multiplatform 3D parametric modeler | LGPL-2.1 |
+| [QGIS](https://github.com/qgis/QGIS)（★14,783） | [lsv5853/QGIS](https://github.com/lsv5853/QGIS) | 开源跨平台地理信息系统（GIS） · Free, open-source, cross-platform geographical information system | GPL-2.0 |
+| [julia](https://github.com/JuliaLang/julia)（★49,242） | [lsv5853/julia](https://github.com/lsv5853/julia) | Julia 编程语言（科学计算） · The Julia programming language for scientific computing | MIT |
+| [core](https://github.com/LibreOffice/core)（★4,597） | [lsv5853/core-1](https://github.com/lsv5853/core-1) | LibreOffice 办公套件核心源码（只读镜像，fork 名 core-1） · LibreOffice core source (read-only mirror; forked as core-1) | GPL-3.0 |
 
 ## 短视频 · Short Video
 
@@ -207,3 +216,4 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [Sunshine](https://github.com/LizardByte/Sunshine)（★42,919） | [lsv5853/Sunshine](https://github.com/lsv5853/Sunshine) | 自托管游戏串流主机（可部署 NAS） · Self-hosted game stream host for Moonlight (NAS-deployable) | GPL-3.0 |
 | [PeerTube](https://github.com/Chocobozzz/PeerTube)（★15,385） | [lsv5853/PeerTube](https://github.com/lsv5853/PeerTube) | 去中心化视频平台，自己搭不受平台规则管的视频站（可部署 NAS） · Decentralized video platform, self-hosted video site free from platform rules (NAS-deployable) | AGPL-3.0 |
 | [NewPipe](https://github.com/TeamNewPipe/NewPipe)（★40,414） | [lsv5853/NewPipe](https://github.com/lsv5853/NewPipe) | 安卓轻量开源 YouTube 客户端，无广告、无需谷歌服务框架 · Lightweight libre YouTube client for Android, ad-free, no Google services required | GPL-3.0 |
+| [darktable](https://github.com/darktable-org/darktable)（★13,399） | [lsv5853/darktable](https://github.com/lsv5853/darktable) | 开源摄影工作流与 RAW 显影 · Open-source photography workflow application and raw developer | GPL-3.0 |
