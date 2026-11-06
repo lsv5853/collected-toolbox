@@ -77,6 +77,16 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)（★56,128） | [lsv5853/scientific-agent-skills](https://github.com/lsv5853/scientific-agent-skills) | 把任意 AI 智能体变成 AI 科学家：177 个已验证科研技能＋100 多个科学数据库 · Turn any AI agent into an AI scientist: 177 validated science skills plus 100+ scientific databases | MIT |
 | [PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate)（★38,207） | [lsv5853/PDFMathTranslate](https://github.com/lsv5853/PDFMathTranslate) | 完整保留排版的 PDF 论文双语翻译（支持公式） · Bilingual PDF paper translation preserving layout and math formulas | AGPL-3.0 |
 | [paper-qa](https://github.com/Future-House/paper-qa)（★9,546） | [lsv5853/paper-qa](https://github.com/lsv5853/paper-qa) | 面向科学文献的高精度带引用问答 RAG · High-accuracy RAG for answering questions from scientific documents with citations | Apache-2.0 |
+| [gemini-cli](https://github.com/google-gemini/gemini-cli)（★108,749） | [lsv5853/gemini-cli](https://github.com/lsv5853/gemini-cli) | 谷歌官方开源终端 AI 智能体，把 Gemini 带进命令行 · Google's official open-source terminal AI agent bringing Gemini to the command line | Apache-2.0 |
+| [langchain](https://github.com/langchain-ai/langchain)（★149,100） | [lsv5853/langchain](https://github.com/lsv5853/langchain) | 智能体工程平台，LLM 应用开发标准框架 · The agent engineering platform for LLM applications | MIT |
+| [haystack](https://github.com/deepset-ai/haystack)（★26,929） | [lsv5853/haystack](https://github.com/lsv5853/haystack) | 开源 AI 编排框架，搭 RAG 与智能体流水线 · Open-source AI orchestration framework for RAG and agent pipelines | Apache-2.0 |
+| [vllm](https://github.com/vllm-project/vllm)（★96,428） | [lsv5853/vllm](https://github.com/lsv5853/vllm) | 大模型高吞吐推理引擎 · High-throughput LLM inference engine | Apache-2.0 |
+| [transformers](https://github.com/huggingface/transformers)（★168,575） | [lsv5853/transformers](https://github.com/lsv5853/transformers) | Hugging Face 模型库 · Hugging Face model library for transformers | Apache-2.0 |
+| [LlamaFactory](https://github.com/hiyouga/LlamaFactory)（★75,903） | [lsv5853/LlamaFactory](https://github.com/lsv5853/LlamaFactory) | 大模型微调平台 · LLM fine-tuning platform | Apache-2.0 |
+| [DeepSpeed](https://github.com/deepspeedai/DeepSpeed)（★43,303） | [lsv5853/DeepSpeed](https://github.com/lsv5853/DeepSpeed) | 深度学习优化库（原微软，现独立） · Deep learning optimization library (formerly Microsoft, now independent) | Apache-2.0 |
+| [gemma](https://github.com/google-deepmind/gemma)（★5,837） | [lsv5853/gemma](https://github.com/lsv5853/gemma) | 谷歌 DeepMind 开源模型 · Google DeepMind's open models | Apache-2.0 |
+| [tensorflow](https://github.com/tensorflow/tensorflow)（★201,311） | [lsv5853/tensorflow](https://github.com/lsv5853/tensorflow) | 谷歌机器学习框架 · Google's machine learning framework | Apache-2.0 |
+| [pytorch](https://github.com/pytorch/pytorch)（★105,161） | [lsv5853/pytorch](https://github.com/lsv5853/pytorch) | Meta 深度学习框架（许可证接口未识别 NOASSERTION） · Meta's deep learning framework (license not identified by API: NOASSERTION) | NOASSERTION |
 
 ## 科技工具 · Tech & Utilities
 
@@ -148,6 +158,16 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [QGIS](https://github.com/qgis/QGIS)（★14,783） | [lsv5853/QGIS](https://github.com/lsv5853/QGIS) | 开源跨平台地理信息系统（GIS） · Free, open-source, cross-platform geographical information system | GPL-2.0 |
 | [julia](https://github.com/JuliaLang/julia)（★49,242） | [lsv5853/julia](https://github.com/lsv5853/julia) | Julia 编程语言（科学计算） · The Julia programming language for scientific computing | MIT |
 | [core](https://github.com/LibreOffice/core)（★4,597） | [lsv5853/core-1](https://github.com/lsv5853/core-1) | LibreOffice 办公套件核心源码（只读镜像，fork 名 core-1） · LibreOffice core source (read-only mirror; forked as core-1) | GPL-3.0 |
+| [playwright](https://github.com/microsoft/playwright)（★99,423） | [lsv5853/playwright](https://github.com/lsv5853/playwright) | 微软浏览器自动化测试框架，Chromium/Firefox/WebKit 一套 API · Microsoft's browser automation and testing framework with a single API for Chromium, Firefox and WebKit | Apache-2.0 |
+| [prometheus](https://github.com/prometheus/prometheus)（★66,973） | [lsv5853/prometheus](https://github.com/lsv5853/prometheus) | 监控告警与时序数据库系统（可部署 NAS） · Monitoring system and time series database (NAS-deployable) | Apache-2.0 |
+| [brave-browser](https://github.com/brave/brave-browser)（★24,127） | [lsv5853/brave-browser](https://github.com/lsv5853/brave-browser) | Brave 浏览器，Chrome 平替，自带去广告与隐私保护 · Brave browser, a Chrome alternative with built-in ad blocking and privacy protection | MPL-2.0 |
+| [Signal-Android](https://github.com/signalapp/Signal-Android)（★29,586） | [lsv5853/Signal-Android](https://github.com/lsv5853/Signal-Android) | Signal 加密通讯安卓端，WhatsApp/Telegram 平替 · Signal's private messenger for Android, a WhatsApp/Telegram alternative | AGPL-3.0 |
+| [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)（★15,789） | [lsv5853/zigbee2mqtt](https://github.com/lsv5853/zigbee2mqtt) | Zigbee 设备桥接进 MQTT，摆脱厂商网关（可部署 NAS） · Zigbee to MQTT bridge, get rid of proprietary Zigbee bridges (NAS-deployable) | GPL-3.0 |
+| [mastodon](https://github.com/mastodon/mastodon)（★50,493） | [lsv5853/mastodon](https://github.com/lsv5853/mastodon) | 去中心化微博客，X/Twitter 平替，可自托管（可部署 NAS） · Self-hosted, decentralized microblogging community, an X/Twitter alternative (NAS-deployable) | AGPL-3.0 |
+| [element-web](https://github.com/element-hq/element-web)（★13,640） | [lsv5853/element-web](https://github.com/lsv5853/element-web) | Matrix 协作客户端，Slack/Discord 平替，可部署 NAS · A glossy Matrix collaboration client for the web, a Slack/Discord alternative (NAS-deployable) | AGPL-3.0 |
+| [vscode](https://github.com/microsoft/vscode)（★194,757） | [lsv5853/vscode](https://github.com/lsv5853/vscode) | 微软开源编辑器 · Microsoft's open-source code editor | MIT |
+| [react](https://github.com/react/react)（★252,017） | [lsv5853/react](https://github.com/lsv5853/react) | Meta 前端框架 · Meta's JavaScript library for building user interfaces | MIT |
+| [kubernetes](https://github.com/kubernetes/kubernetes)（★128,716） | [lsv5853/kubernetes](https://github.com/lsv5853/kubernetes) | 容器编排系统 · Container orchestration system | Apache-2.0 |
 
 ## 短视频 · Short Video
 
