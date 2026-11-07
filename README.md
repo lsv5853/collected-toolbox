@@ -95,6 +95,11 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [DeepInfer](https://github.com/deepseek-ai/DeepInfer)（★25,552） | [lsv5853/DeepInfer](https://github.com/lsv5853/DeepInfer) | DeepSeek 模型的高性能大规模推理框架 · High-performance, large-scale inference framework for DeepSeek models | Apache-2.0 |
 | [magpie](https://github.com/yetone/magpie)（★31,244） | [lsv5853/magpie](https://github.com/lsv5853/magpie) | 所有智能体的模型集中地，菜单栏里切换，Codex 接 DeepSeek、Claude Code 接 Kimi · Every agent's model in one place: Codex on DeepSeek, Claude Code on Kimi, from the menu bar | MIT |
 | [scikit-learn](https://github.com/scikit-learn/scikit-learn)（★68,075） | [lsv5853/scikit-learn](https://github.com/lsv5853/scikit-learn) | Python 机器学习经典库 · Machine learning in Python | BSD-3-Clause |
+| [sglang](https://github.com/sgl-project/sglang)（★38,559） | [lsv5853/sglang](https://github.com/lsv5853/sglang) | 大模型与多模态模型的高性能推理服务框架 · High-performance serving framework for large language models and multimodal models | Apache-2.0 |
+| [diffusers](https://github.com/huggingface/diffusers)（★34,885） | [lsv5853/diffusers](https://github.com/lsv5853/diffusers) | 最先进的扩散模型，PyTorch 里做图像、视频、音频生成 · State-of-the-art diffusion models for image, video, and audio generation in PyTorch | Apache-2.0 |
+| [ultralytics](https://github.com/ultralytics/ultralytics)（★63,196） | [lsv5853/ultralytics](https://github.com/lsv5853/ultralytics) | YOLO 系列目标检测、分割、分类、姿态估计、追踪 · YOLO object detection, segmentation, classification, pose estimation, and tracking | AGPL-3.0 |
+| [onnxruntime](https://github.com/microsoft/onnxruntime)（★22,260） | [lsv5853/onnxruntime](https://github.com/lsv5853/onnxruntime) | 跨平台高性能机器学习推理与训练加速器 · Cross-platform, high performance ML inferencing and training accelerator | MIT |
+| [mlc-llm](https://github.com/mlc-ai/mlc-llm)（★23,309） | [lsv5853/mlc-llm](https://github.com/lsv5853/mlc-llm) | 通用大模型部署引擎，用机器学习编译把模型跑到各种设备上 · Universal LLM deployment engine with ML compilation | Apache-2.0 |
 
 ## 科技工具 · Tech & Utilities
 
@@ -177,6 +182,10 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [react](https://github.com/react/react)（★252,017） | [lsv5853/react](https://github.com/lsv5853/react) | Meta 前端框架 · Meta's JavaScript library for building user interfaces | MIT |
 | [kubernetes](https://github.com/kubernetes/kubernetes)（★128,716） | [lsv5853/kubernetes](https://github.com/lsv5853/kubernetes) | 容器编排系统 · Container orchestration system | Apache-2.0 |
 | [whisper.cpp](https://github.com/ggml-org/whisper.cpp)（★54,982） | [lsv5853/whisper.cpp](https://github.com/lsv5853/whisper.cpp) | OpenAI Whisper 语音转文字的 C/C++ 移植，本地跑 · Port of OpenAI's Whisper model in C/C++ | MIT |
+| [or-tools](https://github.com/google/or-tools)（★14,343） | [lsv5853/or-tools](https://github.com/lsv5853/or-tools) | 谷歌运筹学工具，排程、路径、优化求解 · Google's Operations Research tools for scheduling, routing, and optimization | Apache-2.0 |
+| [stellarium](https://github.com/Stellarium/stellarium)（★10,152） | [lsv5853/stellarium](https://github.com/lsv5853/stellarium) | 实时渲染真实星空的天文软件 · Free software rendering realistic skies in real time | GPL-2.0 |
+| [typst](https://github.com/typst/typst)（★57,032） | [lsv5853/typst](https://github.com/lsv5853/typst) | 标记式排版系统，强大又易学，LaTeX 平替 · A markup-based typesetting system that is powerful and easy to learn (LaTeX alternative) | Apache-2.0 |
+| [uv](https://github.com/astral-sh/uv)（★91,734） | [lsv5853/uv](https://github.com/lsv5853/uv) | 极速 Python 包与项目管理器，Rust 写的，pip/poetry 平替 · An extremely fast Python package and project manager, written in Rust (pip/poetry alternative) | Apache-2.0 |
 
 ## 短视频 · Short Video
 
@@ -247,3 +256,4 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [NewPipe](https://github.com/TeamNewPipe/NewPipe)（★40,414） | [lsv5853/NewPipe](https://github.com/lsv5853/NewPipe) | 安卓轻量开源 YouTube 客户端，无广告、无需谷歌服务框架 · Lightweight libre YouTube client for Android, ad-free, no Google services required | GPL-3.0 |
 | [darktable](https://github.com/darktable-org/darktable)（★13,399） | [lsv5853/darktable](https://github.com/lsv5853/darktable) | 开源摄影工作流与 RAW 显影 · Open-source photography workflow application and raw developer | GPL-3.0 |
 | [photocraft](https://github.com/storytold/photocraft)（★77,480） | [lsv5853/photocraft](https://github.com/lsv5853/photocraft) | 纯 Rust 从零写的开源照片编辑器 · Open-source photo editor written from scratch in pure Rust | Apache-2.0 |
+| [krita](https://github.com/KDE/krita)（★10,709） | [lsv5853/krita](https://github.com/lsv5853/krita) | 免费开源跨平台数字绘画，Photoshop 类平替 · Free and open source cross-platform digital painting app (Photoshop-class alternative) | GPL-3.0 |
