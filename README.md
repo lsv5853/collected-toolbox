@@ -87,6 +87,14 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [gemma](https://github.com/google-deepmind/gemma)（★5,837） | [lsv5853/gemma](https://github.com/lsv5853/gemma) | 谷歌 DeepMind 开源模型 · Google DeepMind's open models | Apache-2.0 |
 | [tensorflow](https://github.com/tensorflow/tensorflow)（★201,311） | [lsv5853/tensorflow](https://github.com/lsv5853/tensorflow) | 谷歌机器学习框架 · Google's machine learning framework | Apache-2.0 |
 | [pytorch](https://github.com/pytorch/pytorch)（★105,161） | [lsv5853/pytorch](https://github.com/lsv5853/pytorch) | Meta 深度学习框架（许可证接口未识别 NOASSERTION） · Meta's deep learning framework (license not identified by API: NOASSERTION) | NOASSERTION |
+| [hermes-agent](https://github.com/NousResearch/hermes-agent)（★261,205） | [lsv5853/hermes-agent](https://github.com/lsv5853/hermes-agent) | 会越用越懂你的智能体（NousResearch 出品） · The agent that grows with you (by NousResearch) | MIT |
+| [skills](https://github.com/mattpocock/skills)（★316,696） | [lsv5853/skills](https://github.com/lsv5853/skills) | 真实工程师的智能体技能库，开箱即用的工作流 · Skills for real engineers, straight from the author's .agents directory | MIT |
+| [Agent-Reach](https://github.com/Panniantong/Agent-Reach)（★109,680） | [lsv5853/Agent-Reach](https://github.com/lsv5853/Agent-Reach) | 让智能体看全网：X、Reddit、YouTube、GitHub、B 站、小红书，一个命令、零 API 费 · Give your AI agent eyes to see the entire internet: X, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees | MIT |
+| [agent-framework](https://github.com/microsoft/agent-framework)（★14,568） | [lsv5853/agent-framework](https://github.com/lsv5853/agent-framework) | 微软的智能体框架，搭多智能体工作流，支持 Python 与 .NET · Microsoft's framework for building, orchestrating and deploying AI agents and multi-agent workflows (Python and .NET) | MIT |
+| [adk-python](https://github.com/google/adk-python)（★22,127） | [lsv5853/adk-python](https://github.com/lsv5853/adk-python) | 谷歌开源的 Python 智能体开发工具包，代码优先 · Google's open-source, code-first Python toolkit for building, evaluating, and deploying AI agents | Apache-2.0 |
+| [DeepInfer](https://github.com/deepseek-ai/DeepInfer)（★25,552） | [lsv5853/DeepInfer](https://github.com/lsv5853/DeepInfer) | DeepSeek 模型的高性能大规模推理框架 · High-performance, large-scale inference framework for DeepSeek models | Apache-2.0 |
+| [magpie](https://github.com/yetone/magpie)（★31,244） | [lsv5853/magpie](https://github.com/lsv5853/magpie) | 所有智能体的模型集中地，菜单栏里切换，Codex 接 DeepSeek、Claude Code 接 Kimi · Every agent's model in one place: Codex on DeepSeek, Claude Code on Kimi, from the menu bar | MIT |
+| [scikit-learn](https://github.com/scikit-learn/scikit-learn)（★68,075） | [lsv5853/scikit-learn](https://github.com/lsv5853/scikit-learn) | Python 机器学习经典库 · Machine learning in Python | BSD-3-Clause |
 
 ## 科技工具 · Tech & Utilities
 
@@ -168,6 +176,7 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [vscode](https://github.com/microsoft/vscode)（★194,757） | [lsv5853/vscode](https://github.com/lsv5853/vscode) | 微软开源编辑器 · Microsoft's open-source code editor | MIT |
 | [react](https://github.com/react/react)（★252,017） | [lsv5853/react](https://github.com/lsv5853/react) | Meta 前端框架 · Meta's JavaScript library for building user interfaces | MIT |
 | [kubernetes](https://github.com/kubernetes/kubernetes)（★128,716） | [lsv5853/kubernetes](https://github.com/lsv5853/kubernetes) | 容器编排系统 · Container orchestration system | Apache-2.0 |
+| [whisper.cpp](https://github.com/ggml-org/whisper.cpp)（★54,982） | [lsv5853/whisper.cpp](https://github.com/lsv5853/whisper.cpp) | OpenAI Whisper 语音转文字的 C/C++ 移植，本地跑 · Port of OpenAI's Whisper model in C/C++ | MIT |
 
 ## 短视频 · Short Video
 
@@ -237,3 +246,4 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [PeerTube](https://github.com/Chocobozzz/PeerTube)（★15,385） | [lsv5853/PeerTube](https://github.com/lsv5853/PeerTube) | 去中心化视频平台，自己搭不受平台规则管的视频站（可部署 NAS） · Decentralized video platform, self-hosted video site free from platform rules (NAS-deployable) | AGPL-3.0 |
 | [NewPipe](https://github.com/TeamNewPipe/NewPipe)（★40,414） | [lsv5853/NewPipe](https://github.com/lsv5853/NewPipe) | 安卓轻量开源 YouTube 客户端，无广告、无需谷歌服务框架 · Lightweight libre YouTube client for Android, ad-free, no Google services required | GPL-3.0 |
 | [darktable](https://github.com/darktable-org/darktable)（★13,399） | [lsv5853/darktable](https://github.com/lsv5853/darktable) | 开源摄影工作流与 RAW 显影 · Open-source photography workflow application and raw developer | GPL-3.0 |
+| [photocraft](https://github.com/storytold/photocraft)（★77,480） | [lsv5853/photocraft](https://github.com/lsv5853/photocraft) | 纯 Rust 从零写的开源照片编辑器 · Open-source photo editor written from scratch in pure Rust | Apache-2.0 |
