@@ -100,6 +100,7 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [ultralytics](https://github.com/ultralytics/ultralytics)（★63,196） | [lsv5853/ultralytics](https://github.com/lsv5853/ultralytics) | YOLO 系列目标检测、分割、分类、姿态估计、追踪 · YOLO object detection, segmentation, classification, pose estimation, and tracking | AGPL-3.0 |
 | [onnxruntime](https://github.com/microsoft/onnxruntime)（★22,260） | [lsv5853/onnxruntime](https://github.com/lsv5853/onnxruntime) | 跨平台高性能机器学习推理与训练加速器 · Cross-platform, high performance ML inferencing and training accelerator | MIT |
 | [mlc-llm](https://github.com/mlc-ai/mlc-llm)（★23,309） | [lsv5853/mlc-llm](https://github.com/lsv5853/mlc-llm) | 通用大模型部署引擎，用机器学习编译把模型跑到各种设备上 · Universal LLM deployment engine with ML compilation | Apache-2.0 |
+| [Codewhale](https://github.com/codewhale-hq/Codewhale)（★41,157） | [lsv5853/Codewhale](https://github.com/lsv5853/Codewhale) | Rust 写的终端 AI 编程 agent，可接任意模型与服务商，Claude Code 的轻量平替 · Terminal AI coding agent in Rust, works with any model and provider; a lightweight Claude Code alternative | MIT |
 
 ## 科技工具 · Tech & Utilities
 
@@ -186,6 +187,12 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [stellarium](https://github.com/Stellarium/stellarium)（★10,152） | [lsv5853/stellarium](https://github.com/lsv5853/stellarium) | 实时渲染真实星空的天文软件 · Free software rendering realistic skies in real time | GPL-2.0 |
 | [typst](https://github.com/typst/typst)（★57,032） | [lsv5853/typst](https://github.com/lsv5853/typst) | 标记式排版系统，强大又易学，LaTeX 平替 · A markup-based typesetting system that is powerful and easy to learn (LaTeX alternative) | Apache-2.0 |
 | [uv](https://github.com/astral-sh/uv)（★91,734） | [lsv5853/uv](https://github.com/lsv5853/uv) | 极速 Python 包与项目管理器，Rust 写的，pip/poetry 平替 · An extremely fast Python package and project manager, written in Rust (pip/poetry alternative) | Apache-2.0 |
+| [godot](https://github.com/godotengine/godot)（★119,839） | [lsv5853/godot](https://github.com/lsv5853/godot) | 开源 2D/3D 游戏引擎，Unity 的免费平替，跨平台导出一次成型 · Free and open-source 2D/3D game engine, a free Unity alternative with one-click cross-platform export | MIT |
+| [valkey](https://github.com/valkey-io/valkey)（★27,662） | [lsv5853/valkey](https://github.com/lsv5853/valkey) | Redis 的开源替代（Redis 改许可后的社区分叉），缓存与键值数据库（可部署 NAS） · Open-source Redis alternative (community fork after Redis's license change); cache and key-value database (NAS-deployable) | BSD-3-Clause |
+| [opentofu](https://github.com/opentofu/opentofu)（★30,767） | [lsv5853/opentofu](https://github.com/lsv5853/opentofu) | Terraform 的开源分叉，基础设施即代码，云资源声明式管理（可部署 NAS） · Open-source Terraform fork for infrastructure as code and declarative cloud resource management (NAS-deployable) | MPL-2.0 |
+| [pandoc](https://github.com/jgm/pandoc)（★46,863） | [lsv5853/pandoc](https://github.com/lsv5853/pandoc) | 万能文档格式转换器，Markdown、Word、PDF、LaTeX 等互转 · Universal document format converter: Markdown, Word, PDF, LaTeX and more | GPL-2.0 |
+| [spyder](https://github.com/spyder-ide/spyder)（★9,391） | [lsv5853/spyder](https://github.com/lsv5853/spyder) | 科学计算 Python 开发环境，变量查看器、绘图集成，数据分析利器 · Scientific Python IDE with variable explorer and plotting integration, for data analysis | MIT |
+| [kicad-source-mirror](https://github.com/KiCad/kicad-source-mirror)（★3,130） | [lsv5853/kicad-source-mirror](https://github.com/lsv5853/kicad-source-mirror) | 开源电路设计 EDA（原理图＋PCB），Altium 的免费平替；GitLab 主仓的活跃源码镜像 · Open-source EDA for circuit design (schematic + PCB), a free Altium alternative; active source mirror of the GitLab main repo | GPL-3.0 |
 
 ## 短视频 · Short Video
 
@@ -257,3 +264,6 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [darktable](https://github.com/darktable-org/darktable)（★13,399） | [lsv5853/darktable](https://github.com/lsv5853/darktable) | 开源摄影工作流与 RAW 显影 · Open-source photography workflow application and raw developer | GPL-3.0 |
 | [photocraft](https://github.com/storytold/photocraft)（★77,480） | [lsv5853/photocraft](https://github.com/lsv5853/photocraft) | 纯 Rust 从零写的开源照片编辑器 · Open-source photo editor written from scratch in pure Rust | Apache-2.0 |
 | [krita](https://github.com/KDE/krita)（★10,709） | [lsv5853/krita](https://github.com/lsv5853/krita) | 免费开源跨平台数字绘画，Photoshop 类平替 · Free and open source cross-platform digital painting app (Photoshop-class alternative) | GPL-3.0 |
+| [FreeTube](https://github.com/FreeTubeApp/FreeTube)（★22,390） | [lsv5853/FreeTube](https://github.com/lsv5853/FreeTube) | 无广告、无追踪的开源 YouTube 桌面客户端，订阅本地管理 · Ad-free, tracking-free open-source YouTube desktop client with locally managed subscriptions | AGPL-3.0 |
+| [mihon](https://github.com/mihonapp/mihon)（★25,148） | [lsv5853/mihon](https://github.com/lsv5853/mihon) | 安卓开源漫画阅读器（Tachiyomi 继任者），多图源扩展、离线阅读 · Open-source Android manga reader (Tachiyomi successor) with multi-source extensions and offline reading | Apache-2.0 |
+| [AntennaPod](https://github.com/AntennaPod/AntennaPod)（★8,280） | [lsv5853/AntennaPod](https://github.com/lsv5853/AntennaPod) | 安卓开源播客管理器，订阅、下载、变速播放全免费无广告 · Open-source Android podcast manager: subscriptions, downloads, variable speed, free and ad-free | GPL-3.0 |
