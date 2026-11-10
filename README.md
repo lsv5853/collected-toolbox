@@ -101,6 +101,15 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [onnxruntime](https://github.com/microsoft/onnxruntime)（★22,260） | [lsv5853/onnxruntime](https://github.com/lsv5853/onnxruntime) | 跨平台高性能机器学习推理与训练加速器 · Cross-platform, high performance ML inferencing and training accelerator | MIT |
 | [mlc-llm](https://github.com/mlc-ai/mlc-llm)（★23,309） | [lsv5853/mlc-llm](https://github.com/lsv5853/mlc-llm) | 通用大模型部署引擎，用机器学习编译把模型跑到各种设备上 · Universal LLM deployment engine with ML compilation | Apache-2.0 |
 | [Codewhale](https://github.com/codewhale-hq/Codewhale)（★41,157） | [lsv5853/Codewhale](https://github.com/lsv5853/Codewhale) | Rust 写的终端 AI 编程 agent，可接任意模型与服务商，Claude Code 的轻量平替 · Terminal AI coding agent in Rust, works with any model and provider; a lightweight Claude Code alternative | MIT |
+| [career-ops](https://github.com/career-ops-hq/career-ops)（★81,493） | [lsv5853/career-ops](https://github.com/lsv5853/career-ops) | 开源 AI 求职助手，扫招聘站、按简历打分、改简历求职信、面试准备、申请追踪 · Open-source AI job search agent: scans job boards, scores each job against your CV, tailors ATS-friendly resumes and cover letters, with interview prep and application tracking | MIT |
+| [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)（★80,150） | [lsv5853/learn-claude-code](https://github.com/lsv5853/learn-claude-code) | 只用 Bash 搭一个 nano 版 Claude Code 式 agent 框架，从 0 到 1 · A nano Claude Code-like agent harness built from 0 to 1 with Bash only | MIT |
+| [CopilotKit](https://github.com/CopilotKit/CopilotKit)（★38,583） | [lsv5853/CopilotKit](https://github.com/lsv5853/CopilotKit) | 智能体的前端栈与生成式 UI，React、Angular、移动端、Slack · Frontend stack for agents and generative UI: React, Angular, mobile, Slack | MIT |
+| [oh-my-pi](https://github.com/can1357/oh-my-pi)（★38,432） | [lsv5853/oh-my-pi](https://github.com/lsv5853/oh-my-pi) | IDE 深度集成的编程 agent · Coding agent with the IDE wired in | MIT |
+| [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)（★37,973） | [lsv5853/Vibe-Trading](https://github.com/lsv5853/Vibe-Trading) | 个人交易 agent · Personal trading agent | MIT |
+| [daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)（★68,850） | [lsv5853/daily_stock_analysis](https://github.com/lsv5853/daily_stock_analysis) | LLM 驱动的多市场股票智能分析，多源行情、实时新闻、决策看板、自动推送 · LLM-powered multi-market stock analysis: multi-source quotes, real-time news, decision dashboard, automated notifications | MIT |
+| [QwenPaw](https://github.com/agentscope-ai/QwenPaw)（★37,545） | [lsv5853/QwenPaw](https://github.com/lsv5853/QwenPaw) | 个人 AI 助手，可部署本机或云端，接多个聊天应用 · Personal AI assistant, deployable on your own machine or in the cloud, supports multiple chat apps | Apache-2.0 |
+| [ECC](https://github.com/affaan-m/ECC)（★300,247） | [lsv5853/ECC](https://github.com/lsv5853/ECC) | agent 性能优化系统，技能、记忆、安全、研究优先开发，面向 Claude Code、Codex、OpenCode、Cursor · Agent harness performance optimization system: skills, memory, security, research-first development for Claude Code, Codex, OpenCode, Cursor and beyond | MIT |
+| [playwright-mcp](https://github.com/microsoft/playwright-mcp)（★39,387） | [lsv5853/playwright-mcp](https://github.com/lsv5853/playwright-mcp) | 微软的 Playwright MCP 服务器，让智能体操作浏览器 · Microsoft's Playwright MCP server that lets agents drive a browser | Apache-2.0 |
 
 ## 科技工具 · Tech & Utilities
 
@@ -193,6 +202,7 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [pandoc](https://github.com/jgm/pandoc)（★46,863） | [lsv5853/pandoc](https://github.com/lsv5853/pandoc) | 万能文档格式转换器，Markdown、Word、PDF、LaTeX 等互转 · Universal document format converter: Markdown, Word, PDF, LaTeX and more | GPL-2.0 |
 | [spyder](https://github.com/spyder-ide/spyder)（★9,391） | [lsv5853/spyder](https://github.com/lsv5853/spyder) | 科学计算 Python 开发环境，变量查看器、绘图集成，数据分析利器 · Scientific Python IDE with variable explorer and plotting integration, for data analysis | MIT |
 | [kicad-source-mirror](https://github.com/KiCad/kicad-source-mirror)（★3,130） | [lsv5853/kicad-source-mirror](https://github.com/lsv5853/kicad-source-mirror) | 开源电路设计 EDA（原理图＋PCB），Altium 的免费平替；GitLab 主仓的活跃源码镜像 · Open-source EDA for circuit design (schematic + PCB), a free Altium alternative; active source mirror of the GitLab main repo | GPL-3.0 |
+| [dbx](https://github.com/t8y2/dbx)（★29,732） | [lsv5853/dbx](https://github.com/lsv5853/dbx) | 25MB 轻量跨平台数据库客户端，100+ 数据库，内置 AI、MCP、CLI、桌面端、Docker · 25 MB lightweight cross-platform database client for 100+ databases, with built-in AI, MCP server, CLI, desktop and Docker | Apache-2.0 |
 
 ## 短视频 · Short Video
 
