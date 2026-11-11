@@ -110,6 +110,12 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [QwenPaw](https://github.com/agentscope-ai/QwenPaw)（★37,545） | [lsv5853/QwenPaw](https://github.com/lsv5853/QwenPaw) | 个人 AI 助手，可部署本机或云端，接多个聊天应用 · Personal AI assistant, deployable on your own machine or in the cloud, supports multiple chat apps | Apache-2.0 |
 | [ECC](https://github.com/affaan-m/ECC)（★300,247） | [lsv5853/ECC](https://github.com/lsv5853/ECC) | agent 性能优化系统，技能、记忆、安全、研究优先开发，面向 Claude Code、Codex、OpenCode、Cursor · Agent harness performance optimization system: skills, memory, security, research-first development for Claude Code, Codex, OpenCode, Cursor and beyond | MIT |
 | [playwright-mcp](https://github.com/microsoft/playwright-mcp)（★39,387） | [lsv5853/playwright-mcp](https://github.com/lsv5853/playwright-mcp) | 微软的 Playwright MCP 服务器，让智能体操作浏览器 · Microsoft's Playwright MCP server that lets agents drive a browser | Apache-2.0 |
+| [rea](https://github.com/morluto/rea)（★450,080） | [lsv5853/rea](https://github.com/lsv5853/rea) | 用 agent 逆向工程任何东西，从应用行为到原生二进制 · Reverse engineer anything with agents, from app behavior down to native binaries | MIT |
+| [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)（★55,080） | [lsv5853/chrome-devtools-mcp](https://github.com/lsv5853/chrome-devtools-mcp) | 给编程 agent 的 Chrome DevTools，让智能体直接操作浏览器调试 · Chrome DevTools for coding agents, letting agents drive the browser and debug directly | Apache-2.0 |
+| [context7](https://github.com/upstash/context7)（★64,534） | [lsv5853/context7](https://github.com/lsv5853/context7) | 给 AI agent 的最新文档平台，写代码时不再吃过期文档 · Up-to-date documentation platform for AI agents, so coding agents stop using outdated docs | MIT |
+| [ponytail](https://github.com/DietrichGebert/ponytail)（★188,419） | [lsv5853/ponytail](https://github.com/lsv5853/ponytail) | 让 AI agent 像最懒的资深工程师一样思考，最好的代码就是不写的代码 · Makes your AI agent think like the laziest senior dev in the room; the best code is the code you never wrote | MIT |
+| [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)（★123,319） | [lsv5853/generative-ai-for-beginners](https://github.com/lsv5853/generative-ai-for-beginners) | 微软 21 课生成式 AI 入门课 · Microsoft's 21-lesson course to get started building with generative AI | MIT |
+| [worldmonitor](https://github.com/koala73/worldmonitor)（★90,462） | [lsv5853/worldmonitor](https://github.com/lsv5853/worldmonitor) | 实时全球情报仪表盘，AI 新闻聚合、地缘政治监测、基建追踪 · Real-time global intelligence dashboard: AI-powered news aggregation, geopolitical monitoring, infrastructure tracking | AGPL-3.0 |
 
 ## 科技工具 · Tech & Utilities
 
@@ -203,6 +209,10 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [spyder](https://github.com/spyder-ide/spyder)（★9,391） | [lsv5853/spyder](https://github.com/lsv5853/spyder) | 科学计算 Python 开发环境，变量查看器、绘图集成，数据分析利器 · Scientific Python IDE with variable explorer and plotting integration, for data analysis | MIT |
 | [kicad-source-mirror](https://github.com/KiCad/kicad-source-mirror)（★3,130） | [lsv5853/kicad-source-mirror](https://github.com/lsv5853/kicad-source-mirror) | 开源电路设计 EDA（原理图＋PCB），Altium 的免费平替；GitLab 主仓的活跃源码镜像 · Open-source EDA for circuit design (schematic + PCB), a free Altium alternative; active source mirror of the GitLab main repo | GPL-3.0 |
 | [dbx](https://github.com/t8y2/dbx)（★29,732） | [lsv5853/dbx](https://github.com/lsv5853/dbx) | 25MB 轻量跨平台数据库客户端，100+ 数据库，内置 AI、MCP、CLI、桌面端、Docker · 25 MB lightweight cross-platform database client for 100+ databases, with built-in AI, MCP server, CLI, desktop and Docker | Apache-2.0 |
+| [PowerToys](https://github.com/microsoft/PowerToys)（★140,842） | [lsv5853/PowerToys](https://github.com/lsv5853/PowerToys) | 微软 Windows 效率与自定义工具集 · Microsoft's collection of utilities that supercharge productivity and customization on Windows | MIT |
+| [Scrapling](https://github.com/D4Vinci/Scrapling)（★101,157） | [lsv5853/Scrapling](https://github.com/lsv5853/Scrapling) | 网页抓取框架，单次请求到全站爬取都管 · Web scraping framework that handles everything from a single request to a full-scale crawl | BSD-3-Clause |
+| [streamlink](https://github.com/streamlink/streamlink)（★11,907） | [lsv5853/streamlink](https://github.com/lsv5853/streamlink) | 命令行工具，把各平台视频流导到播放器里看 · CLI utility that pipes video streams from various services into a video player | BSD-2-Clause |
+| [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)（★27,917） | [lsv5853/ScreenToGif](https://github.com/lsv5853/ScreenToGif) | 录屏并剪辑保存为 GIF 或视频 · Record a selected area of your screen, edit and save it as a GIF or video | MS-PL |
 
 ## 短视频 · Short Video
 
