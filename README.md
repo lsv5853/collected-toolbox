@@ -116,6 +116,12 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [ponytail](https://github.com/DietrichGebert/ponytail)（★188,419） | [lsv5853/ponytail](https://github.com/lsv5853/ponytail) | 让 AI agent 像最懒的资深工程师一样思考，最好的代码就是不写的代码 · Makes your AI agent think like the laziest senior dev in the room; the best code is the code you never wrote | MIT |
 | [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)（★123,319） | [lsv5853/generative-ai-for-beginners](https://github.com/lsv5853/generative-ai-for-beginners) | 微软 21 课生成式 AI 入门课 · Microsoft's 21-lesson course to get started building with generative AI | MIT |
 | [worldmonitor](https://github.com/koala73/worldmonitor)（★90,462） | [lsv5853/worldmonitor](https://github.com/lsv5853/worldmonitor) | 实时全球情报仪表盘，AI 新闻聚合、地缘政治监测、基建追踪 · Real-time global intelligence dashboard: AI-powered news aggregation, geopolitical monitoring, infrastructure tracking | AGPL-3.0 |
+| [dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)（★22,482） | [lsv5853/dsh-superagent-prototype](https://github.com/lsv5853/dsh-superagent-prototype) | DeepSeek 官方的超级智能体原型，朝更自主的智能体系统 · DeepSeek's official super-agent prototype, towards a more autonomous agent system | MIT |
+| [agency-agents](https://github.com/msitarzewski/agency-agents)（★167,773） | [lsv5853/agency-agents](https://github.com/lsv5853/agency-agents) | 一套完整的 AI agency，各角色专家 agent，从前端到社区运营 · A complete AI agency at your fingertips: specialized expert agents from frontend wizards to community managers | MIT |
+| [ruflo](https://github.com/ruvnet/ruflo)（★81,497） | [lsv5853/ruflo](https://github.com/lsv5853/ruflo) | agent 框架，多智能体群、自主工作流、自适应记忆 · Agent harness: multi-player swarms, autonomous workflows, adaptive memory and self-learning intelligence | MIT |
+| [github-mcp-server](https://github.com/github/github-mcp-server)（★34,393） | [lsv5853/github-mcp-server](https://github.com/lsv5853/github-mcp-server) | GitHub 官方 MCP 服务器，让智能体直接操作 GitHub · GitHub's official MCP server, letting agents work with GitHub directly | MIT |
+| [genoffice](https://github.com/genspark-ai/genoffice)（★12,170） | [lsv5853/genoffice](https://github.com/lsv5853/genoffice) | 免费开源 AI Office 套件，文档、表格、幻灯片、PDF，内置 AI agent，可本地编辑真实 Office 文件 · Free, open-source AI Office suite: Docs, Sheets, Slides, PDF with a built-in AI agent; edit real .docx/.xlsx/.pptx files locally | Apache-2.0 |
+| [Mika](https://github.com/wangzan101/Mika)（★8,241） | [lsv5853/Mika](https://github.com/lsv5853/Mika) | 安卓端侧 AI 智能体，在手机上操作应用和网页帮你办事 · On-device AI agent for Android that operates apps and the web to get things done for you | Apache-2.0 |
 
 ## 科技工具 · Tech & Utilities
 
@@ -213,6 +219,10 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [Scrapling](https://github.com/D4Vinci/Scrapling)（★101,157） | [lsv5853/Scrapling](https://github.com/lsv5853/Scrapling) | 网页抓取框架，单次请求到全站爬取都管 · Web scraping framework that handles everything from a single request to a full-scale crawl | BSD-3-Clause |
 | [streamlink](https://github.com/streamlink/streamlink)（★11,907） | [lsv5853/streamlink](https://github.com/lsv5853/streamlink) | 命令行工具，把各平台视频流导到播放器里看 · CLI utility that pipes video streams from various services into a video player | BSD-2-Clause |
 | [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)（★27,917） | [lsv5853/ScreenToGif](https://github.com/lsv5853/ScreenToGif) | 录屏并剪辑保存为 GIF 或视频 · Record a selected area of your screen, edit and save it as a GIF or video | MS-PL |
+| [terminal](https://github.com/microsoft/terminal)（★105,370） | [lsv5853/terminal](https://github.com/lsv5853/terminal) | 微软 Windows Terminal，Windows 命令行终端 · Microsoft's Windows Terminal and the original Windows console host | MIT |
+| [pdfcraft](https://github.com/storytold/pdfcraft)（★20,409） | [lsv5853/pdfcraft](https://github.com/lsv5853/pdfcraft) | 纯 Rust 写的开源 PDF 阅读编辑器 · Open-source PDF reader and editor written from scratch in pure Rust | Apache-2.0 |
+| [screenity](https://github.com/alyssaxuu/screenity)（★18,986） | [lsv5853/screenity](https://github.com/lsv5853/screenity) | 免费、无隐私顾虑、不设限的录屏工具 · Free and privacy-friendly screen recorder with no limits | GPL-3.0 |
+| [android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner)（★7,551） | [lsv5853/android-ad-cleaner](https://github.com/lsv5853/android-ad-cleaner) | 关掉国产安卓系统广告、热搜、资讯推荐和营销推送，不 root、可还原 · Turns off ads, hot search, news recommendations and marketing pushes in Chinese Android system apps; no root, reversible | MIT |
 
 ## 短视频 · Short Video
 
