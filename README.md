@@ -122,6 +122,14 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [github-mcp-server](https://github.com/github/github-mcp-server)（★34,393） | [lsv5853/github-mcp-server](https://github.com/lsv5853/github-mcp-server) | GitHub 官方 MCP 服务器，让智能体直接操作 GitHub · GitHub's official MCP server, letting agents work with GitHub directly | MIT |
 | [genoffice](https://github.com/genspark-ai/genoffice)（★12,170） | [lsv5853/genoffice](https://github.com/lsv5853/genoffice) | 免费开源 AI Office 套件，文档、表格、幻灯片、PDF，内置 AI agent，可本地编辑真实 Office 文件 · Free, open-source AI Office suite: Docs, Sheets, Slides, PDF with a built-in AI agent; edit real .docx/.xlsx/.pptx files locally | Apache-2.0 |
 | [Mika](https://github.com/wangzan101/Mika)（★8,241） | [lsv5853/Mika](https://github.com/lsv5853/Mika) | 安卓端侧 AI 智能体，在手机上操作应用和网页帮你办事 · On-device AI agent for Android that operates apps and the web to get things done for you | Apache-2.0 |
+| [private-gpt](https://github.com/zylon-ai/private-gpt)（★57,635） | [lsv5853/private-gpt](https://github.com/lsv5853/private-gpt) | 本地模型跑私人 AI 应用，支持 RAG、工具与 MCP · Private AI apps on local models: RAG, skills, tools, MCP, text-to-SQL | Apache-2.0 |
+| [dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)（★20,710） | [lsv5853/dsh-Go](https://github.com/lsv5853/dsh-Go) | 手机上跑 DeepSeek，还能远程控制电脑 · Run DeepSeek on your phone, remote-control your computer | AGPL-3.0 |
+| [taste-skill](https://github.com/Leonxlnx/taste-skill)（★114,267） | [lsv5853/taste-skill](https://github.com/lsv5853/taste-skill) | 给编程智能体加审美的技能 · Agent skills that give coding agents taste: art direction, reference images, browser checks | MIT |
+| [paperclip](https://github.com/paperclipai/paperclip)（★113,392） | [lsv5853/paperclip](https://github.com/lsv5853/paperclip) | 开源智能体工作管理工具 · Open-source app to manage agents at work: orchestration and governance | MIT |
+| [open-design](https://github.com/nexu-io/open-design)（★107,372） | [lsv5853/open-design](https://github.com/lsv5853/open-design) | 协同 AI 设计工作台，本地优先 · Collaborative AI design-agent workspace, local-first | Apache-2.0 |
+| [fastmcp](https://github.com/PrefectHQ/fastmcp)（★28,404） | [lsv5853/fastmcp](https://github.com/lsv5853/fastmcp) | 用 Python 快速搭 MCP 服务器和客户端 · Fast, Pythonic way to build MCP servers and clients | Apache-2.0 |
+| [mcp-toolbox](https://github.com/googleapis/mcp-toolbox)（★16,851） | [lsv5853/mcp-toolbox](https://github.com/lsv5853/mcp-toolbox) | Google 官方数据库 MCP 工具箱 · Google's MCP Toolbox for Databases | Apache-2.0 |
+| [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)（★36,911） | [lsv5853/next-ai-draw-io](https://github.com/lsv5853/next-ai-draw-io) | 聊天画 draw.io 流程图，支持网页、桌面与 MCP · Draw and edit draw.io diagrams by chatting with AI; web, desktop and MCP server | Apache-2.0 |
 
 ## 科技工具 · Tech & Utilities
 
@@ -223,6 +231,8 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [pdfcraft](https://github.com/storytold/pdfcraft)（★20,409） | [lsv5853/pdfcraft](https://github.com/lsv5853/pdfcraft) | 纯 Rust 写的开源 PDF 阅读编辑器 · Open-source PDF reader and editor written from scratch in pure Rust | Apache-2.0 |
 | [screenity](https://github.com/alyssaxuu/screenity)（★18,986） | [lsv5853/screenity](https://github.com/lsv5853/screenity) | 免费、无隐私顾虑、不设限的录屏工具 · Free and privacy-friendly screen recorder with no limits | GPL-3.0 |
 | [android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner)（★7,551） | [lsv5853/android-ad-cleaner](https://github.com/lsv5853/android-ad-cleaner) | 关掉国产安卓系统广告、热搜、资讯推荐和营销推送，不 root、可还原 · Turns off ads, hot search, news recommendations and marketing pushes in Chinese Android system apps; no root, reversible | MIT |
+| [DocumentServer](https://github.com/ONLYOFFICE/DocumentServer)（★7,120） | [lsv5853/DocumentServer](https://github.com/lsv5853/DocumentServer) | 免费协同在线办公套件 · Free collaborative online office suite | AGPL-3.0 |
+| [KillerPDF](https://github.com/SteveTheKiller/KillerPDF)（★4,359） | [lsv5853/KillerPDF](https://github.com/lsv5853/KillerPDF) | 免费开源 Windows PDF 编辑器 · Free open-source PDF editor for Windows: PDF 2.0 engine, OCR, merge/split, annotate, sign | GPL-3.0 |
 
 ## 短视频 · Short Video
 
