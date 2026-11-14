@@ -137,6 +137,11 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [rea-video](https://github.com/JuneYaooo/rea-video)（★7,891） | [lsv5853/rea-video](https://github.com/lsv5853/rea-video) | 逐镜头逆向任何视频，告诉你怎么复刻 · Reverse-engineer any video shot by shot and learn how to remake it | Apache-2.0 |
 | [craft-anything](https://github.com/storytold/craft-anything)（★31,251） | [lsv5853/craft-anything](https://github.com/lsv5853/craft-anything) | 理解任何软件怎么工作，再自己动手做一个 · Understand how any software works, then craft your own | Apache-2.0 |
 | [python-sdk](https://github.com/modelcontextprotocol/python-sdk)（★24,849） | [lsv5853/python-sdk](https://github.com/lsv5853/python-sdk) | MCP 官方 Python SDK，搭 MCP 服务器和客户端 · The official Python SDK for MCP servers and clients | MIT |
+| [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)（★97,699） | [lsv5853/awesome-mcp-servers](https://github.com/lsv5853/awesome-mcp-servers) | MCP 服务器大全 · A curated collection of MCP servers | MIT |
+| [humanizer](https://github.com/blader/humanizer)（★69,085） | [lsv5853/humanizer](https://github.com/lsv5853/humanizer) | 去掉 AI 写作痕迹的 agent skill · Agent skill that removes signs of AI-generated writing | MIT |
+| [diagram-design](https://github.com/cathrynlavery/diagram-design)（★67,067） | [lsv5853/diagram-design](https://github.com/lsv5853/diagram-design) | 给编程 agent 的编辑风图表设计 skill，45 种图型 · Editorial diagram design skill for coding agents, 45 diagram types | MIT |
+| [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)（★30,298） | [lsv5853/opendataloader-pdf](https://github.com/lsv5853/opendataloader-pdf) | 面向 AI 的 PDF 解析器 · PDF parser that turns documents into AI-ready data | Apache-2.0 |
+| [agent-skills](https://github.com/addyosmani/agent-skills)（★117,472） | [lsv5853/agent-skills](https://github.com/lsv5853/agent-skills) | 给 AI 编程 agent 的生产级工程 skill · Production-grade engineering skills for AI coding agents | MIT |
 
 ## 科技工具 · Tech & Utilities
 
@@ -240,6 +245,8 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner)（★7,551） | [lsv5853/android-ad-cleaner](https://github.com/lsv5853/android-ad-cleaner) | 关掉国产安卓系统广告、热搜、资讯推荐和营销推送，不 root、可还原 · Turns off ads, hot search, news recommendations and marketing pushes in Chinese Android system apps; no root, reversible | MIT |
 | [DocumentServer](https://github.com/ONLYOFFICE/DocumentServer)（★7,120） | [lsv5853/DocumentServer](https://github.com/lsv5853/DocumentServer) | 免费协同在线办公套件 · Free collaborative online office suite | AGPL-3.0 |
 | [KillerPDF](https://github.com/SteveTheKiller/KillerPDF)（★4,359） | [lsv5853/KillerPDF](https://github.com/lsv5853/KillerPDF) | 免费开源 Windows PDF 编辑器 · Free open-source PDF editor for Windows: PDF 2.0 engine, OCR, merge/split, annotate, sign | GPL-3.0 |
+| [JavaGuide](https://github.com/Snailclimb/JavaGuide)（★159,560） | [lsv5853/JavaGuide](https://github.com/lsv5853/JavaGuide) | Java 面试与后端通用指南 · Java interview and backend engineering guide | Apache-2.0 |
+| [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)（★35,314） | [lsv5853/OCRmyPDF](https://github.com/lsv5853/OCRmyPDF) | 给扫描版 PDF 加可搜索 OCR 文字层 · Adds a searchable OCR text layer to scanned PDFs | MPL-2.0 |
 
 ## 短视频 · Short Video
 
@@ -317,3 +324,6 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [mediago](https://github.com/mediago-dev/mediago)（★9,385） | [lsv5853/mediago](https://github.com/lsv5853/mediago) | 跨平台视频下载器，抓 m3u8/HLS，B站、YouTube 都行 · Cross-platform video downloader that sniffs m3u8/HLS streams from Bilibili, YouTube and more | MIT |
 | [VidBee](https://github.com/nexmoe/VidBee)（★11,141） | [lsv5853/VidBee](https://github.com/lsv5853/VidBee) | 1000+ 站点下载音视频，本地转写、总结、翻译 · Download video and audio from 1000+ sites, transcribe locally, then summarize, translate, or chat with your media | MIT |
 | [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)（★16,709） | [lsv5853/YoutubeDownloader](https://github.com/lsv5853/YoutubeDownloader) | 下载 YouTube 视频和播放列表 · Download videos and playlists from YouTube | MIT |
+| [palmier-pro](https://github.com/palmier-io/palmier-pro)（★14,752） | [lsv5853/palmier-pro](https://github.com/lsv5853/palmier-pro) | 为 AI 打造的 macOS 视频编辑器 · macOS video editor built for AI | GPL-3.0 |
+| [instaloader](https://github.com/instaloader/instaloader)（★13,890） | [lsv5853/instaloader](https://github.com/lsv5853/instaloader) | 下载 Instagram 图片、视频与元数据 · Download Instagram photos, videos, captions and metadata | MIT |
+| [ytdlnis](https://github.com/deniscerri/ytdlnis)（★11,127） | [lsv5853/ytdlnis](https://github.com/lsv5853/ytdlnis) | 安卓端 yt-dlp 音视频下载器 · Full-featured yt-dlp audio/video downloader for Android | GPL-3.0 |
