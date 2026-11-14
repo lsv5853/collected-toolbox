@@ -130,6 +130,13 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [fastmcp](https://github.com/PrefectHQ/fastmcp)（★28,404） | [lsv5853/fastmcp](https://github.com/lsv5853/fastmcp) | 用 Python 快速搭 MCP 服务器和客户端 · Fast, Pythonic way to build MCP servers and clients | Apache-2.0 |
 | [mcp-toolbox](https://github.com/googleapis/mcp-toolbox)（★16,851） | [lsv5853/mcp-toolbox](https://github.com/lsv5853/mcp-toolbox) | Google 官方数据库 MCP 工具箱 · Google's MCP Toolbox for Databases | Apache-2.0 |
 | [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)（★36,911） | [lsv5853/next-ai-draw-io](https://github.com/lsv5853/next-ai-draw-io) | 聊天画 draw.io 流程图，支持网页、桌面与 MCP · Draw and edit draw.io diagrams by chatting with AI; web, desktop and MCP server | Apache-2.0 |
+| [impeccable](https://github.com/pbakaus/impeccable)（★109,439） | [lsv5853/impeccable](https://github.com/lsv5853/impeccable) | 给编程 agent 的设计词汇：润色、评审、审计，拦截 AI 味儿 · Design vocabulary for coding agents: polish, review, audit, and catch AI slop before it ships | Apache-2.0 |
+| [docling](https://github.com/docling-project/docling)（★70,550） | [lsv5853/docling](https://github.com/lsv5853/docling) | 把文档解析成生成式 AI 能用的格式 · Prepare documents for generative AI: parse PDFs and Office files into AI-ready formats | MIT |
+| [archify](https://github.com/tt-a1i/archify)（★96,178） | [lsv5853/archify](https://github.com/lsv5853/archify) | 把想法、计划、代码库变成漂亮的交互式架构图 · Turn any idea, plan, or codebase into a beautiful interactive architecture diagram | Apache-2.0 |
+| [openidea](https://github.com/l0ng-ai/openidea)（★8,903） | [lsv5853/openidea](https://github.com/lsv5853/openidea) | Rust 重写的 IDE，IntelliJ 风格，支持 60+ 种语言 · Fast native IDE rebuilt in Rust, IntelliJ-style keymap, for 60+ languages | Apache-2.0 |
+| [rea-video](https://github.com/JuneYaooo/rea-video)（★7,891） | [lsv5853/rea-video](https://github.com/lsv5853/rea-video) | 逐镜头逆向任何视频，告诉你怎么复刻 · Reverse-engineer any video shot by shot and learn how to remake it | Apache-2.0 |
+| [craft-anything](https://github.com/storytold/craft-anything)（★31,251） | [lsv5853/craft-anything](https://github.com/lsv5853/craft-anything) | 理解任何软件怎么工作，再自己动手做一个 · Understand how any software works, then craft your own | Apache-2.0 |
+| [python-sdk](https://github.com/modelcontextprotocol/python-sdk)（★24,849） | [lsv5853/python-sdk](https://github.com/lsv5853/python-sdk) | MCP 官方 Python SDK，搭 MCP 服务器和客户端 · The official Python SDK for MCP servers and clients | MIT |
 
 ## 科技工具 · Tech & Utilities
 
@@ -307,3 +314,6 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [FreeTube](https://github.com/FreeTubeApp/FreeTube)（★22,390） | [lsv5853/FreeTube](https://github.com/lsv5853/FreeTube) | 无广告、无追踪的开源 YouTube 桌面客户端，订阅本地管理 · Ad-free, tracking-free open-source YouTube desktop client with locally managed subscriptions | AGPL-3.0 |
 | [mihon](https://github.com/mihonapp/mihon)（★25,148） | [lsv5853/mihon](https://github.com/lsv5853/mihon) | 安卓开源漫画阅读器（Tachiyomi 继任者），多图源扩展、离线阅读 · Open-source Android manga reader (Tachiyomi successor) with multi-source extensions and offline reading | Apache-2.0 |
 | [AntennaPod](https://github.com/AntennaPod/AntennaPod)（★8,280） | [lsv5853/AntennaPod](https://github.com/lsv5853/AntennaPod) | 安卓开源播客管理器，订阅、下载、变速播放全免费无广告 · Open-source Android podcast manager: subscriptions, downloads, variable speed, free and ad-free | GPL-3.0 |
+| [mediago](https://github.com/mediago-dev/mediago)（★9,385） | [lsv5853/mediago](https://github.com/lsv5853/mediago) | 跨平台视频下载器，抓 m3u8/HLS，B站、YouTube 都行 · Cross-platform video downloader that sniffs m3u8/HLS streams from Bilibili, YouTube and more | MIT |
+| [VidBee](https://github.com/nexmoe/VidBee)（★11,141） | [lsv5853/VidBee](https://github.com/lsv5853/VidBee) | 1000+ 站点下载音视频，本地转写、总结、翻译 · Download video and audio from 1000+ sites, transcribe locally, then summarize, translate, or chat with your media | MIT |
+| [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)（★16,709） | [lsv5853/YoutubeDownloader](https://github.com/lsv5853/YoutubeDownloader) | 下载 YouTube 视频和播放列表 · Download videos and playlists from YouTube | MIT |
