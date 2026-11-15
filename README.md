@@ -142,6 +142,15 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [diagram-design](https://github.com/cathrynlavery/diagram-design)（★67,067） | [lsv5853/diagram-design](https://github.com/lsv5853/diagram-design) | 给编程 agent 的编辑风图表设计 skill，45 种图型 · Editorial diagram design skill for coding agents, 45 diagram types | MIT |
 | [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)（★30,298） | [lsv5853/opendataloader-pdf](https://github.com/lsv5853/opendataloader-pdf) | 面向 AI 的 PDF 解析器 · PDF parser that turns documents into AI-ready data | Apache-2.0 |
 | [agent-skills](https://github.com/addyosmani/agent-skills)（★117,472） | [lsv5853/agent-skills](https://github.com/lsv5853/agent-skills) | 给 AI 编程 agent 的生产级工程 skill · Production-grade engineering skills for AI coding agents | MIT |
+| [qwen-code](https://github.com/QwenLM/qwen-code)（★30,523） | [lsv5853/qwen-code](https://github.com/lsv5853/qwen-code) | 通义千问官方终端编程智能体 · Qwen's official terminal AI coding agent | Apache-2.0 |
+| [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)（★281,532） | [lsv5853/deepseek-harness](https://github.com/lsv5853/deepseek-harness) | DeepSeek 万物皆插件智能体框架 · DeepSeek agent harness: everything is a plugin | MIT |
+| [langextract](https://github.com/google/langextract)（★39,313） | [lsv5853/langextract](https://github.com/lsv5853/langextract) | 用 LLM 从非结构化文本抽结构化信息并定位原文 · Extract structured information from unstructured text with LLMs and precise source grounding | Apache-2.0 |
+| [ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)（★79,703） | [lsv5853/ai-agents-for-beginners](https://github.com/lsv5853/ai-agents-for-beginners) | 微软 18 课智能体入门教程 · Microsoft's 18-lesson course to start building AI agents | MIT |
+| [Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins)（★3,209） | [lsv5853/Qwen-MM-Plugins](https://github.com/lsv5853/Qwen-MM-Plugins) | 让智能体框架原生支持多模态 · Make any agent harness multimodal-native | Apache-2.0 |
+| [page-agent](https://github.com/alibaba/page-agent)（★29,692） | [lsv5853/page-agent](https://github.com/lsv5853/page-agent) | 用自然语言操控网页的页内 GUI 智能体 · In-page GUI agent: control web interfaces with natural language | MIT |
+| [MNN](https://github.com/alibaba/MNN)（★16,534） | [lsv5853/MNN](https://github.com/lsv5853/MNN) | 端侧大模型轻量推理引擎 · Blazing-fast lightweight on-device LLM inference engine | Apache-2.0 |
+| [langflow](https://github.com/langflow-ai/langflow)（★156,672） | [lsv5853/langflow](https://github.com/lsv5853/langflow) | 可视化搭建部署 AI 智能体与工作流 · Visually build and deploy AI agents and workflows | MIT |
+| [pi](https://github.com/earendil-works/pi)（★122,141） | [lsv5853/pi](https://github.com/lsv5853/pi) | 统一 LLM 接口的智能体工具箱与编程 CLI · AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI | MIT |
 
 ## 科技工具 · Tech & Utilities
 
@@ -247,6 +256,7 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [KillerPDF](https://github.com/SteveTheKiller/KillerPDF)（★4,359） | [lsv5853/KillerPDF](https://github.com/lsv5853/KillerPDF) | 免费开源 Windows PDF 编辑器 · Free open-source PDF editor for Windows: PDF 2.0 engine, OCR, merge/split, annotate, sign | GPL-3.0 |
 | [JavaGuide](https://github.com/Snailclimb/JavaGuide)（★159,560） | [lsv5853/JavaGuide](https://github.com/lsv5853/JavaGuide) | Java 面试与后端通用指南 · Java interview and backend engineering guide | Apache-2.0 |
 | [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)（★35,314） | [lsv5853/OCRmyPDF](https://github.com/lsv5853/OCRmyPDF) | 给扫描版 PDF 加可搜索 OCR 文字层 · Adds a searchable OCR text layer to scanned PDFs | MPL-2.0 |
+| [zx](https://github.com/google/zx)（★45,852） | [lsv5853/zx](https://github.com/lsv5853/zx) | 写更好 shell 脚本的工具 · A tool for writing better shell scripts | Apache-2.0 |
 
 ## 短视频 · Short Video
 
