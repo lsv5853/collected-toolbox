@@ -151,6 +151,13 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [MNN](https://github.com/alibaba/MNN)（★16,534） | [lsv5853/MNN](https://github.com/lsv5853/MNN) | 端侧大模型轻量推理引擎 · Blazing-fast lightweight on-device LLM inference engine | Apache-2.0 |
 | [langflow](https://github.com/langflow-ai/langflow)（★156,672） | [lsv5853/langflow](https://github.com/lsv5853/langflow) | 可视化搭建部署 AI 智能体与工作流 · Visually build and deploy AI agents and workflows | MIT |
 | [pi](https://github.com/earendil-works/pi)（★122,141） | [lsv5853/pi](https://github.com/lsv5853/pi) | 统一 LLM 接口的智能体工具箱与编程 CLI · AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI | MIT |
+| [open-code-review](https://github.com/alibaba/open-code-review)（★52,808） | [lsv5853/open-code-review](https://github.com/lsv5853/open-code-review) | 阿里开源代码评审工具，确定性流水线＋LLM Agent，行级精准点评，内置多语言规则（空指针、线程安全、XSS、SQL 注入） · Alibaba code review tool: deterministic pipelines + LLM agent, precise line-level comments, built-in multi-language rules (NPE, thread-safety, XSS, SQL injection) | Apache-2.0 |
+| [claude-mem](https://github.com/thedotmack/claude-mem)（★117,614） | [lsv5853/claude-mem](https://github.com/lsv5853/claude-mem) | 跨会话持久记忆，记录 agent 做的事、AI 压缩、下次会话注入相关上下文，支持 Claude Code、Codex、Gemini 等 · Persistent context across sessions: captures agent activity, compresses with AI, injects relevant context into future sessions; works with Claude Code, Codex, Gemini and more | Apache-2.0 |
+| [zvec](https://github.com/alibaba/zvec)（★16,250） | [lsv5853/zvec](https://github.com/lsv5853/zvec) | 轻量极速的进程内向量数据库 · Lightweight, lightning-fast in-process vector database | Apache-2.0 |
+| [arthas](https://github.com/alibaba/arthas)（★37,615） | [lsv5853/arthas](https://github.com/lsv5853/arthas) | 阿里 Java 诊断利器 · Alibaba Java diagnostic tool | Apache-2.0 |
+| [flowgram.ai](https://github.com/bytedance/flowgram.ai)（★8,588） | [lsv5853/flowgram.ai](https://github.com/lsv5853/flowgram.ai) | 可扩展的工作流开发框架，内置画布、表单、变量，帮开发者更快搭 AI 工作流平台 · Extensible workflow development framework with canvas, forms and variables; build AI workflow platforms faster | MIT |
+| [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)（★144,862） | [lsv5853/awesome-llm-apps](https://github.com/lsv5853/awesome-llm-apps) | 100+ AI Agent、Agent Skills 与 RAG 应用合集，全部免费开源 · 100+ AI agents, agent skills and RAG apps — free and open source | Apache-2.0 |
+| [skills](https://github.com/google/skills)（★24,362） | [lsv5853/skills-1](https://github.com/lsv5853/skills-1) | 谷歌官方 Agent Skills，覆盖谷歌产品与技术 · Official Google agent skills for Google products and technologies | Apache-2.0 |
 
 ## 科技工具 · Tech & Utilities
 
@@ -337,3 +344,6 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [palmier-pro](https://github.com/palmier-io/palmier-pro)（★14,752） | [lsv5853/palmier-pro](https://github.com/lsv5853/palmier-pro) | 为 AI 打造的 macOS 视频编辑器 · macOS video editor built for AI | GPL-3.0 |
 | [instaloader](https://github.com/instaloader/instaloader)（★13,890） | [lsv5853/instaloader](https://github.com/lsv5853/instaloader) | 下载 Instagram 图片、视频与元数据 · Download Instagram photos, videos, captions and metadata | MIT |
 | [ytdlnis](https://github.com/deniscerri/ytdlnis)（★11,127） | [lsv5853/ytdlnis](https://github.com/lsv5853/ytdlnis) | 安卓端 yt-dlp 音视频下载器 · Full-featured yt-dlp audio/video downloader for Android | GPL-3.0 |
+| [xgplayer](https://github.com/bytedance/xgplayer)（★9,311） | [lsv5853/xgplayer](https://github.com/lsv5853/xgplayer) | HTML5 视频播放器，带省流解析器 · HTML5 video player with a traffic-saving parser | MIT |
+| [Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player)（★3,437） | [lsv5853/Ghosten-Player](https://github.com/lsv5853/Ghosten-Player) | 视频播放器，支持网盘直连、元数据刮削、IPTV、文件管理 · Video player: direct cloud-drive access, metadata scraping, IPTV, file management | AGPL-3.0 |
+| [Piik](https://github.com/TNTcraftHIM/Piik)（★4,322） | [lsv5853/Piik](https://github.com/lsv5853/Piik) | 免费开源私密屏幕共享，和朋友一起看直播、看电影，可自部署 · Free open-source private screen sharing: watch live streams and movies together, self-hostable | MIT |
