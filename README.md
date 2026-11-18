@@ -158,6 +158,10 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [flowgram.ai](https://github.com/bytedance/flowgram.ai)（★8,588） | [lsv5853/flowgram.ai](https://github.com/lsv5853/flowgram.ai) | 可扩展的工作流开发框架，内置画布、表单、变量，帮开发者更快搭 AI 工作流平台 · Extensible workflow development framework with canvas, forms and variables; build AI workflow platforms faster | MIT |
 | [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)（★144,862） | [lsv5853/awesome-llm-apps](https://github.com/lsv5853/awesome-llm-apps) | 100+ AI Agent、Agent Skills 与 RAG 应用合集，全部免费开源 · 100+ AI agents, agent skills and RAG apps — free and open source | Apache-2.0 |
 | [skills](https://github.com/google/skills)（★24,362） | [lsv5853/skills-1](https://github.com/lsv5853/skills-1) | 谷歌官方 Agent Skills，覆盖谷歌产品与技术 · Official Google agent skills for Google products and technologies | Apache-2.0 |
+| [caveman](https://github.com/JuliusBrussee/caveman)（★121,002） | [lsv5853/caveman](https://github.com/lsv5853/caveman) | 爆火的 coding agent 技能＋代理，用「穴居人说话」省 token，号称省 65% · Viral coding-agent skill + proxy that cuts tokens by talking like a caveman, claims 65% savings | Apache-2.0 |
+| [last30days-skill](https://github.com/mvanhorn/last30days-skill)（★68,806） | [lsv5853/last30days-skill](https://github.com/lsv5853/last30days-skill) | AI agent 技能，跨 Reddit、X、YouTube、HN、Polymarket 和全网调研任意话题，再综合出一份有依据的总结 · AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket and the web, then synthesizes a grounded summary | MIT |
+| [OpenMontage](https://github.com/OpenMontageInc/OpenMontage)（★81,290） | [lsv5853/OpenMontage](https://github.com/lsv5853/OpenMontage) | 全球首个开源智能体视频制作系统，12 条制作流水线、100+ 工具、700+ 技能文件，把 AI 编程助手变成完整视频制作工作室 · World's first open-source agentic video production system: 12 pipelines, 100+ tools, 700+ skill files; turns your AI coding assistant into a full video production studio | AGPL-3.0 |
+| [marketingskills](https://github.com/coreyhaines31/marketingskills)（★60,987） | [lsv5853/marketingskills](https://github.com/lsv5853/marketingskills) | 给 Claude Code 和 AI agent 的营销技能包，转化率优化、文案、SEO、数据分析、增长工程 · Marketing skills for Claude Code and AI agents: CRO, copywriting, SEO, analytics, growth engineering | MIT |
 
 ## 科技工具 · Tech & Utilities
 
@@ -264,6 +268,8 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [JavaGuide](https://github.com/Snailclimb/JavaGuide)（★159,560） | [lsv5853/JavaGuide](https://github.com/lsv5853/JavaGuide) | Java 面试与后端通用指南 · Java interview and backend engineering guide | Apache-2.0 |
 | [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)（★35,314） | [lsv5853/OCRmyPDF](https://github.com/lsv5853/OCRmyPDF) | 给扫描版 PDF 加可搜索 OCR 文字层 · Adds a searchable OCR text layer to scanned PDFs | MPL-2.0 |
 | [zx](https://github.com/google/zx)（★45,852） | [lsv5853/zx](https://github.com/lsv5853/zx) | 写更好 shell 脚本的工具 · A tool for writing better shell scripts | Apache-2.0 |
+| [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)（★74,761） | [lsv5853/Front-End-Checklist](https://github.com/lsv5853/Front-End-Checklist) | 现代 Web 开发必备清单，给人和 AI agent 用 · Essential checklist for modern web development, for humans and AI agents | MIT |
+| [mirotalksfu](https://github.com/miroslavpejic85/mirotalksfu)（★3,162） | [lsv5853/mirotalksfu](https://github.com/lsv5853/mirotalksfu) | 自托管开源 WebRTC 视频会议平台，Zoom / Google Meet / Jitsi / Teams 的平替，基于 Mediasoup 的 SFU 架构 · Self-hosted open-source WebRTC video conferencing, a Zoom/Meet/Jitsi/Teams alternative on Mediasoup SFU | AGPL-3.0 |
 
 ## 短视频 · Short Video
 
@@ -347,3 +353,5 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [xgplayer](https://github.com/bytedance/xgplayer)（★9,311） | [lsv5853/xgplayer](https://github.com/lsv5853/xgplayer) | HTML5 视频播放器，带省流解析器 · HTML5 video player with a traffic-saving parser | MIT |
 | [Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player)（★3,437） | [lsv5853/Ghosten-Player](https://github.com/lsv5853/Ghosten-Player) | 视频播放器，支持网盘直连、元数据刮削、IPTV、文件管理 · Video player: direct cloud-drive access, metadata scraping, IPTV, file management | AGPL-3.0 |
 | [Piik](https://github.com/TNTcraftHIM/Piik)（★4,322） | [lsv5853/Piik](https://github.com/lsv5853/Piik) | 免费开源私密屏幕共享，和朋友一起看直播、看电影，可自部署 · Free open-source private screen sharing: watch live streams and movies together, self-hostable | MIT |
+| [nuclear](https://github.com/nukeop/nuclear)（★18,961） | [lsv5853/nuclear](https://github.com/lsv5853/nuclear) | 流媒体音乐播放器，帮你找免费音乐 · Streaming music player that finds free music for you | AGPL-3.0 |
+| [Metrolist](https://github.com/MetrolistGroup/Metrolist)（★14,529） | [lsv5853/Metrolist](https://github.com/lsv5853/Metrolist) | Material Design 风格的 YouTube Music 客户端，安卓、iOS、桌面全有 · Material Design YouTube Music client for Android, iOS and desktop | GPL-3.0 |
