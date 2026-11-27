@@ -229,6 +229,7 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [agents](https://github.com/wshobson/agents)（★42,989） | [lsv5853/agents](https://github.com/lsv5853/agents) | 给 Claude Code、Codex、Cursor 用的智能体与技能合集，即插即用 · Plug-and-play collection of agents and skills for Claude Code, Codex and Cursor | MIT |
 | [book-to-skill](https://github.com/virgiliojr94/book-to-skill)（★39,167） | [lsv5853/book-to-skill](https://github.com/lsv5853/book-to-skill) | 把任何技术书 PDF 转成 Claude Code 技能，教材变随问随答 · Turn any technical book PDF into a Claude Code skill | MIT |
 | [orca](https://github.com/stablyai/orca)（★142,390） | [lsv5853/orca](https://github.com/lsv5853/orca) | 用自己的订阅批量调度一队编程机器人的工作台 · Workbench that orchestrates a fleet of coding bots using your own subscriptions | MIT |
+| [LiveTalking](https://github.com/lipku/LiveTalking)（★11,373） | [lsv5853/LiveTalking](https://github.com/lsv5853/LiveTalking) | 实时交互流式数字人：数字人出镜、直播与课程讲解的现成底座 · Real-time interactive streaming digital human for live and recorded presenting | Apache-2.0 |
 
 ## 科技工具 · Tech & Utilities
 
