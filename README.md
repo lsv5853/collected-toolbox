@@ -214,7 +214,6 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [agent-browser](https://github.com/vercel-labs/agent-browser)（★54,294） | [lsv5853/agent-browser](https://github.com/lsv5853/agent-browser) | 给 AI 智能体用的浏览器自动化命令行工具，Vercel 出品 · Browser automation CLI built for AI agents, by Vercel | Apache-2.0 |
 | [airi](https://github.com/moeru-ai/airi)（★51,846） | [lsv5853/airi](https://github.com/lsv5853/airi) | 自托管 AI 伙伴：实时语音聊天，能玩 Minecraft 和 Factorio · Self-hosted AI companion with realtime voice chat that can play Minecraft and Factorio | MIT |
 | [Handy](https://github.com/cjpais/Handy)（★40,471） | [lsv5853/Handy](https://github.com/lsv5853/Handy) | 免费开源语音转文字工具，完全离线运行 · Free, open-source speech-to-text app that works completely offline | MIT |
-| [GPT-SoVITS](https://github.com/bilibili/GPT-SoVITS)（★64,290） | [lsv5853/GPT-SoVITS](https://github.com/lsv5853/GPT-SoVITS) | 声音克隆 TTS 标杆：1 分钟录音即可克隆音色，多语种 · Voice-cloning TTS benchmark: clone a voice from a one-minute sample, multilingual | MIT |
 | [VoxCPM](https://github.com/OpenBMB/VoxCPM)（★43,046） | [lsv5853/VoxCPM](https://github.com/lsv5853/VoxCPM) | 面壁智能多语种 TTS：免分词器，支持声音设计与逼真克隆 · Multilingual tokenizer-free TTS from OpenBMB with voice design and realistic cloning | Apache-2.0 |
 | [CosyVoice](https://github.com/QwenAudio/CosyVoice)（★24,544） | [lsv5853/CosyVoice](https://github.com/lsv5853/CosyVoice) | 阿里通义语音生成大模型：多语种 TTS，推理、训练、部署全栈 · Alibaba's multilingual speech generation model family with a full inference, training and deployment stack | Apache-2.0 |
 | [Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video)（★30,572） | [lsv5853/Pixelle-Video](https://github.com/lsv5853/Pixelle-Video) | AI 全自动短视频引擎：从文案到成片一条龙 · Fully automatic AI short-video engine: from script to finished video in one pipeline | Apache-2.0 |
@@ -363,7 +362,7 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [pyvideotrans](https://github.com/jianchang512/pyvideotrans)（★19,510） | [lsv5853/pyvideotrans](https://github.com/lsv5853/pyvideotrans) | 视频翻译+配音 · Video translation & dubbing | GPL-3.0 |
 | [FunClip](https://github.com/modelscope/FunClip)（★6,442） | [lsv5853/FunClip](https://github.com/lsv5853/FunClip) | 字幕+AI 剪辑 · Subtitles + AI video clipping | MIT |
 | [BiliNote](https://github.com/JefferyHcool/BiliNote)（★7,595） | [lsv5853/BiliNote](https://github.com/lsv5853/BiliNote) | AI 视频笔记 · AI video notes | MIT |
-| [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)（★63,598） | [lsv5853/GPT-SoVITS](https://github.com/lsv5853/GPT-SoVITS) | 声音克隆配音 · Voice cloning & TTS dubbing | MIT |
+| [GPT-SoVITS](https://github.com/bilibili/GPT-SoVITS)（★64,290） | [lsv5853/GPT-SoVITS](https://github.com/lsv5853/GPT-SoVITS) | 声音克隆配音 · Voice cloning & TTS dubbing | MIT |
 | [VideoLingo](https://github.com/Huanshere/VideoLingo)（★18,903） | [lsv5853/VideoLingo](https://github.com/lsv5853/VideoLingo) | 字幕翻译+配音一条龙 · Subtitle translation & dubbing pipeline | Apache-2.0 |
 | [OpenCreator](https://github.com/krillinai/OpenCreator)（★13,860） | [lsv5853/OpenCreator](https://github.com/lsv5853/OpenCreator) | 视频翻译配音（原 KrillinAI） · Video translation & dubbing (formerly KrillinAI) | Apache-2.0 |
 | [faster-whisper](https://github.com/SYSTRAN/faster-whisper)（★26,075） | [lsv5853/faster-whisper](https://github.com/lsv5853/faster-whisper) | 语音转文字加速版 · Fast speech-to-text | MIT |
