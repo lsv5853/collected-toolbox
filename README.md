@@ -39,6 +39,7 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [EasyTier](https://github.com/EasyTier/EasyTier)（★14,255） | [lsv5853/EasyTier](https://github.com/lsv5853/EasyTier) | 去中心化异地组网 · Decentralized mesh VPN | LGPL-3.0 |
 | [FlClash](https://github.com/chen08209/FlClash)（★57,657） | [lsv5853/FlClash](https://github.com/lsv5853/FlClash) | 全平台 Clash 客户端 · Cross-platform Clash client | GPL-3.0 |
 | [frp](https://github.com/fatedier/frp)（★110,095） | [lsv5853/frp](https://github.com/lsv5853/frp) | 内网穿透 · NAT traversal / reverse proxy | Apache-2.0 |
+| [tailscale](https://github.com/tailscale/tailscale)（★39,794） | [lsv5853/tailscale](https://github.com/lsv5853/tailscale) | Tailscale 官方客户端：最简单的 WireGuard 组网（在用） · Official Tailscale client: the easiest WireGuard mesh VPN (in use) | BSD-3-Clause |
 
 ## AI · AI Tools
 
@@ -230,6 +231,15 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [book-to-skill](https://github.com/virgiliojr94/book-to-skill)（★39,167） | [lsv5853/book-to-skill](https://github.com/lsv5853/book-to-skill) | 把任何技术书 PDF 转成 Claude Code 技能，教材变随问随答 · Turn any technical book PDF into a Claude Code skill | MIT |
 | [orca](https://github.com/stablyai/orca)（★142,390） | [lsv5853/orca](https://github.com/lsv5853/orca) | 用自己的订阅批量调度一队编程机器人的工作台 · Workbench that orchestrates a fleet of coding bots using your own subscriptions | MIT |
 | [LiveTalking](https://github.com/lipku/LiveTalking)（★11,373） | [lsv5853/LiveTalking](https://github.com/lsv5853/LiveTalking) | 实时交互流式数字人：数字人出镜、直播与课程讲解的现成底座 · Real-time interactive streaming digital human for live and recorded presenting | Apache-2.0 |
+| [Mooncake](https://github.com/kvcache-ai/Mooncake)（★7,154） | [lsv5853/Mooncake](https://github.com/lsv5853/Mooncake) | Kimi 官方的 LLM 推理服务平台：KVCache 分离式推理 · Kimi's LLM serving platform with disaggregated KVCache-based inference | Apache-2.0 |
+| [gpustack](https://github.com/gpustack/gpustack)（★6,133） | [lsv5853/gpustack](https://github.com/lsv5853/gpustack) | GPU 集群管理器：统一调度 vLLM/SGLang 模型服务与按需 GPU 实例 · GPU cluster manager for vLLM/SGLang model serving and on-demand GPU instances | Apache-2.0 |
+| [LightLLM](https://github.com/ModelTC/LightLLM)（★4,378） | [lsv5853/LightLLM](https://github.com/lsv5853/LightLLM) | 轻量高性能 LLM 推理与服务框架，部署简单、扩展方便 · Lightweight, high-performance LLM inference and serving framework | Apache-2.0 |
+| [inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)（★2,912） | [lsv5853/inference-optimisation-skill](https://github.com/lsv5853/inference-optimisation-skill) | 智能体技能：爬坡式优化本地 LLM 推理速度（解码、推测解码、KV、启动） · Agent skill for hill-climbing local LLM serving speed: decode, speculative decoding, KV, startup | MIT |
+| [aisix](https://github.com/api7/aisix)（★238） | [lsv5853/aisix](https://github.com/lsv5853/aisix) | Rust 写的开源 AI 网关：一个 OpenAI 兼容接口接多家模型，带路由、护栏与缓存 · Open-source AI gateway in Rust: one OpenAI-compatible API for many providers, with routing, guardrails and caching | Apache-2.0 |
+| [openinterpreter](https://github.com/openinterpreter/openinterpreter)（★68,984） | [lsv5853/openinterpreter](https://github.com/lsv5853/openinterpreter) | 用开源模型跑代码的编程智能体：让模型直接操作本机终端 · Coding agent for open models that operates your own computer | Apache-2.0 |
+| [mergekit](https://github.com/arcee-ai/mergekit)（★7,492） | [lsv5853/mergekit](https://github.com/lsv5853/mergekit) | 合并预训练大模型的工具箱 · Toolkit for merging pretrained large language models | LGPL-3.0 |
+| [speech-to-speech](https://github.com/huggingface/speech-to-speech)（★13,809） | [lsv5853/speech-to-speech](https://github.com/lsv5853/speech-to-speech) | 用开源模型搭建语音智能体的框架与示例 · Build voice agents with open-source models | Apache-2.0 |
+| [openwhispr](https://github.com/OpenWhispr/openwhispr)（★12,360） | [lsv5853/openwhispr](https://github.com/lsv5853/openwhispr) | 本地语音转文字听写 App：Whisper/Parakeet 本地识别，隐私优先、跨平台 · Privacy-first voice-to-text dictation app with local Whisper/Parakeet models, cross-platform | MIT |
 
 ## 科技工具 · Tech & Utilities
 
@@ -355,6 +365,19 @@ Forks do not follow upstream automatically; use "Sync fork" on the fork page whe
 | [ToolJet](https://github.com/ToolJet/ToolJet)（★41,294） | [lsv5853/ToolJet](https://github.com/lsv5853/ToolJet) | 开源低代码内部工具与仪表盘平台，还能 AI 生成应用（可部署 NAS） · Open-source low-code platform for internal tools and dashboards, with AI app generation | AGPL-3.0 |
 | [netdata](https://github.com/netdata/netdata)（★81,611） | [lsv5853/netdata](https://github.com/lsv5853/netdata) | 全栈可观测性：指标、日志、链路、拓扑实时监控（可部署 NAS） · Full-stack observability: metrics, logs, traces, flows and topology in real time | GPL-3.0 |
 | [Kats](https://github.com/facebookresearch/Kats)（★6,518） | [lsv5853/Kats](https://github.com/lsv5853/Kats) | Meta 的时间序列分析工具包，轻量通用可扩展 · A kit to analyze time series data: lightweight, easy to use and extendable | MIT |
+| [sill](https://github.com/Saffsanity/sill)（★5,177） | [lsv5853/sill](https://github.com/lsv5853/sill) | 把 Mac 任意窗口实时投到 iPhone/iPad 上触控操作，无服务器、免费开源 · Any Mac window live on iPhone/iPad with touch, Pencil and keyboard; no servers | Apache-2.0 |
+| [dashy](https://github.com/lissy93/dashy)（★27,090） | [lsv5853/dashy](https://github.com/lsv5853/dashy) | 自托管个人仪表盘：服务状态、部件、主题一应俱全（可部署 NAS） · Self-hostable personal dashboard with status checks, widgets and themes (NAS-deployable) | MIT |
+| [gatus](https://github.com/TwiN/gatus)（★12,954） | [lsv5853/gatus](https://github.com/lsv5853/gatus) | 面向开发者的自动化状态页：服务监控、告警与事件记录 · Automated developer-oriented status page with alerting and incident support | Apache-2.0 |
+| [nezha](https://github.com/nezhahq/nezha)（★10,436） | [lsv5853/nezha](https://github.com/lsv5853/nezha) | 轻量自托管服务器与网站监控运维工具（哪吒监控） · Lightweight self-hosted server and website monitoring tool | WTFPL |
+| [certimate](https://github.com/certimate-go/certimate)（★9,475） | [lsv5853/certimate](https://github.com/lsv5853/certimate) | 自托管 SSL 证书 ACME 工具：申请、部署、续期、监控全流程可视化 · Self-hosted SSL certificate ACME tool: issuance, deployment, renewal and monitoring | MIT |
+| [tugtainer](https://github.com/Quenary/tugtainer)（★1,562） | [lsv5853/tugtainer](https://github.com/lsv5853/tugtainer) | Docker 容器自动更新：带 Web 界面的自动升级工具（可部署 NAS） · Automated Docker container updates with a web UI (NAS-deployable) | MIT |
+| [v2](https://github.com/miniflux/v2)（★9,985） | [lsv5853/v2](https://github.com/lsv5853/v2) | 极简自托管 RSS 阅读器，干净高效 · Minimalist and opinionated self-hosted feed reader | Apache-2.0 |
+| [delta](https://github.com/dandavison/delta)（★32,906） | [lsv5853/delta](https://github.com/lsv5853/delta) | 带语法高亮的 git/diff/grep 分页查看器，终端必备 · Syntax-highlighting pager for git, diff, blame and grep | MIT |
+| [tig](https://github.com/jonas/tig)（★13,388） | [lsv5853/tig](https://github.com/lsv5853/tig) | 终端里的 git 界面：浏览提交、分支与文件历史 · Text-mode interface for git | GPL-2.0 |
+| [twinny](https://github.com/twinnydotdev/twinny)（★3,709） | [lsv5853/twinny](https://github.com/lsv5853/twinny) | 开源 VS Code AI 编程助手：补全、对话、改代码，可接本地或自托管模型 · Open-source AI coding assistant for VS Code with local or hosted models | MIT |
+| [note-gen](https://github.com/codexu/note-gen)（★13,071） | [lsv5853/note-gen](https://github.com/lsv5853/note-gen) | 本地优先的 Markdown 笔记 App：随手记、AI 整理成清晰笔记 · Local-first Markdown notes app that turns scattered records into clear notes with AI | GPL-3.0 |
+| [omniget](https://github.com/tonhowtf/omniget)（★14,756） | [lsv5853/omniget](https://github.com/lsv5853/omniget) | 本地 MCP 服务器：让编程智能体用你自己的电脑与已登录账号，还能下载音视频 · Local MCP server letting coding agents use your own computer and logged-in accounts, plus downloads | GPL-3.0 |
+| [pdfcraft](https://github.com/PDFCraftTool/pdfcraft)（★9,900） | [lsv5853/pdfcraft-1](https://github.com/lsv5853/pdfcraft-1) | 浏览器里跑的免费 PDF 工具箱：90+ 工具，编辑转换合并分割全本地完成不上传 · Free privacy-focused PDF toolkit with 90+ tools running entirely in your browser | AGPL-3.0 |
 
 ## 短视频 · Short Video
 
